@@ -1,4 +1,4 @@
-﻿Group Name,Company,Group Type,Debute Year,Disband Year,Current Status,Social Accounts,Inactive Members,Current Members,Original Members Remainding,Initial Members,Member Changes,SubUnits,Albums,Mini Albums, Other Albums,Singles,Digital Singles,Other Singles,Foreign Albums, Foreign Mini Albums,Foreign Other Album,Foreign Singles,Foreign Digital Singles,Foreign Other Singles,Others,Last Production Year
+Group Name,Company,Group Type,Debute Year,Disband Year,Current Status,Social Accounts,Inactive Members,Current Members,Original Members Remainding,Initial Members,Member Changes,SubUnits,Albums,Mini Albums,Other Albums,Singles,Digital Singles,Other Singles,Foreign Albums,Foreign Mini Albums,Foreign Other Album,Foreign Singles,Foreign Digital Singles,Foreign Other Singles,Others,Last Production Year
 (G)I-DLE,Cube Entertainment,Female,2018,,Active,10,1,5,5,6,0,0,0,4,0,1,4,0,0,2,0,2,2,0,5,2021
 10X10,Gaon Entertainment,Female,2015,2016,Disband,2,0,6,6,6,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2016
 1NB ,Trivus Entertainment,Female,2017,2018,Disband,4,0,5,5,5,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2018
@@ -230,7 +230,7 @@ LIPBUBBLE,Zenith Media Contents,Female,2017,2019,Disband,5,0,7,4,7,6,0,0,0,0,0,2
 Little Cheer Girl,Rainbow Company,Female,2015,,Active,3,0,5,0,5,20,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2020
 Littles,Nega Network,Female,2012,2014,Disband,1,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2012
 LIVE HIGH,Crayon Star Entertainment,Female,2013,,Active,8,0,3,1,4,6,0,0,0,0,0,5,0,0,0,1,0,0,0,0,2019
-LOOΠΔ,BlockBerryCreative,Female,2016,,Active,9,0,12,12,12,0,3,0,3,1,12,3,0,0,0,0,0,0,0,0,2020
+LOO??,BlockBerryCreative,Female,2016,,Active,9,0,12,12,12,0,3,0,3,1,12,3,0,0,0,0,0,0,0,0,2020
 Lovelyz,Woollim Entertainment,Female,2014,,Active,6,0,8,8,8,0,0,2,7,1,1,2,1,0,0,0,0,0,0,4,2020
 LoveUs,Creative Su Entertainment,Female,2015,2016,Disband,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
 LPG,AquaArgo Entertainment,Female,2005,2016,Disband,0,0,3,0,4,19,0,3,1,1,0,5,0,0,0,0,0,0,0,0,2015
@@ -410,10 +410,10 @@ YPDA,J Company Entertainment,Female,2018,,Active,4,0,2,2,4,6,0,0,1,0,0,0,0,0,0,0
 14U,BG Entertainment,Male,2017,2019,Disband,7,0,14,13,14,2,0,0,0,0,3,1,0,0,0,0,0,0,0,1,2018
 1Team,Liveworks Company,Male,2019,2021,Disband,6,0,5,5,5,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,2020
 1the9,Colabs,Male,2020,2020,Disband,5,0,9,9,9,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,2020
-1tym,YG Entertainment,Male,1998,2006,Hiatus,1,0,4,4,4,4,0,5,0,0,0,0,0,0,0,0,0,0,0,2,2005
+1tym,YG Entertainment,Male,1998,2006,Disband,1,0,4,4,4,4,0,5,0,0,0,0,0,0,0,0,0,0,0,2,2005
 24k,Choeun Entertainment,Male,2012,,Active,8,0,5,0,5,16,1,1,5,0,2,0,0,0,0,0,0,0,0,0,2018
-2am,JYP Entertainment,Male,2008,2015,Hiatus,4,0,4,4,4,0,0,3,3,0,2,0,0,1,0,0,5,1,0,0,2014
-2pm,JYP Entertainment,Male,2008,2017,Hiatus,8,0,6,6,7,1,0,6,1,0,3,6,0,5,0,0,12,0,0,1,2016
+2am,JYP Entertainment,Male,2008,2015,Disband,4,0,4,4,4,0,0,3,3,0,2,0,0,1,0,0,5,1,0,0,2014
+2pm,JYP Entertainment,Male,2008,2017,Disband,8,0,6,6,7,1,0,6,1,0,3,6,0,5,0,0,12,0,0,1,2016
 2z,GOGO2020,Male,2020,,Active,5,0,5,5,6,1,0,1,0,2,0,3,0,0,0,0,0,0,0,0,2021
 4men,MAJOR9,Male,1998,,Active,1,0,3,0,4,11,0,6,5,3,0,6,0,0,0,0,0,0,0,20,2021
 5tion,IV Entertainment,Male,2001,,Active,5,0,5,1,5,16,0,3,1,0,2,15,0,1,0,0,5,0,0,1,2020
@@ -421,280 +421,286 @@ YPDA,J Company Entertainment,Female,2018,,Active,4,0,2,2,4,6,0,0,1,0,0,0,0,0,0,0
 A'st1,DSP Media,Male,2008,2009,Disband,0,0,6,6,6,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2009
 A-jax,DSP Media,Male,2012,2019,Disband,7,0,5,4,7,4,0,0,2,0,1,3,0,0,0,0,4,0,0,0,2018
 A-prince,Excellent Entertainment,Male,2011,2015,Disband,3,0,5,1,5,8,0,0,3,0,1,3,0,0,0,0,0,0,0,0,2014
-a.c.e,Beat Interactive,Male,2017,,Active,10,0,5,5,6,0,0,4,0,0,5,0,0,0,0,0,3,0,0,2,2021
-A.clan,Elijah Entertainment ,Male,2012,,Hiatus,2,0,4,5,8,7,0,2,0,0,10,7,0,0,0,0,0,2,0,0,2016
-A6P,DS Entertainment,Male,2015,2016,Disband,4,0,6,6,5,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2015
-AA,Wellmade StarM,Male,2011,2015,Disband,3,0,4,4,3,1,1,1,4,0,4,3,0,0,0,0,0,0,0,0,2013
-AB6IX,Brand New Music,Male,2019,,Active,2,0,4,5,4,1,1,6,3,2,0,0,0,0,0,0,0,0,0,0,2021
-AboutU,Amp Music,Male,2018,,Active,5,0,3,4,4,1,0,1,0,0,11,0,0,0,0,0,0,0,0,0,2021
-all-star,BurnHard Entertainment,Male,2015,2017,Disband,5,0,2,5,5,3,0,1,1,0,0,5,0,0,0,0,0,0,0,0,2015
-alldayz,GUYS Ent.,Male,2017,2017,Disband,1,0,4,4,5,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,2017
-AlphaBAT,APB Entertainment (2019–present),Male,2013,,Active,0,0,4,5,5,8,0,2,0,0,8,1,0,0,0,0,0,0,0,0,2020
-apl,DAM Entertainment,Male,2016,,Hiatus,3,0,5,5,3,0,0,0,0,0,2,4,2,0,0,0,1,0,0,0,2017
-argon,MSH Entertainment,Male,2019,,Active,5,0,6,6,3,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2019
-ashgray,Bigfoot Records,Male,2009,,Active,1,0,2,3,3,2,0,3,0,0,13,1,0,0,0,0,0,0,0,6,2018
-astin,KINGTOP Entertainment,Male,2019,2019,Disband,5,0,8,0,6,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,2019
-Astro,Fantagio Music,Male,2016,,Active,0,0,6,6,4,0,0,11,1,0,4,2,0,1,0,0,0,0,0,1,2021
-ateenz,KQ Entertainment,Male,2018,,Active,0,0,8,8,10,0,0,8,0,0,0,7,1,3,0,0,0,0,0,2,2021
-aweek,Illusion Entertainment,Male,2018,,Active,0,0,7,8,4,1,0,1,0,0,2,1,0,0,0,0,0,0,0,0,2020
-axisB,AXB Entertainment,Male,2016,2017,Disband,6,0,6,6,7,0,0,0,0,0,2,9,0,0,0,0,1,0,0,0,2017
-B.A.P,TS Entertainment,Male,2012,2019,Disband,3,0,4,6,6,2,1,8,0,0,12,1,0,4,0,0,9,0,0,0,2018
-B.heart,Poong Entertainment,Male,2016,2018,Disband,4,0,4,4,9,0,0,1,0,0,5,1,0,0,0,0,0,0,0,1,2017
-B.I.G,GH Entertainment,Male,2014,,Active,4,0,4,5,4,2,1,1,1,0,7,2,0,0,0,0,0,0,0,1,2019
-B.I.T,SD.ent,Male,2017,2017,Disband,2,0,5,5,6,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,2017
-B.O.i,M.fel Entertainment,Male,2013,2013,Disband,2,0,6,6,7,0,0,0,8,0,1,1,0,0,0,0,0,0,0,0,2013
-B1A4,WM Entertainment,Male,2011,,Active,0,0,3,5,6,2,0,11,0,0,4,2,1,5,0,0,11,0,0,8,2020
-Bae173,PocketDol Studio,Male,2020,,Active,4,0,9,9,3,0,0,2,0,0,3,1,0,0,0,0,0,0,0,0,2021
-baikal,Baikal Entertainment,Male,2017,2019,Disband,4,0,7,7,7,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,2018
-Bandage,Play M Entertainment,Male,2020,,Active,0,0,4,4,4,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,2020
-BDC,Brand New Music,Male,2019,,Active,0,1,3,3,4,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2021
-be.A,Chrome Entertainment,Male,2014,2017,Disband,3,0,5,6,5,1,0,1,3,0,5,0,0,0,0,0,0,0,0,1,2017
-beatwin,Elen Entertainment,Male,2017,2017,Disband,0,0,5,6,5,1,0,2,0,0,5,1,0,0,0,0,3,0,0,1,2017
-BECZ,H&H Entertainment,Male,2020,2020,Disband,1,0,5,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
-Boyfriend,Starship Entertainment,Male,2011,2019,Disband,7,0,6,6,4,0,0,6,1,0,6,0,0,4,0,0,11,0,0,0,2019
-bga,Wong Fu Productions,Male,2016,,Active,2,0,5,5,7,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2017
-big brain,MAJOR9,Male,2015,2017,Disband,7,0,4,4,5,0,0,0,1,0,4,1,0,0,0,0,0,0,0,0,2016
-bigbang,YG Entertainment,Male,2006,,Active,5,0,4,5,5,1,0,19,10,0,12,3,0,19,0,0,5,0,0,0,2018
-bigflo,HO Company,Male,2014,,Active,0,0,3,5,6,6,1,5,0,0,1,3,0,1,0,0,1,0,0,0,2018
-bigstar,Brave Entertainment,Male,2012,2019,Disband,2,0,5,5,3,0,0,3,0,0,5,4,0,0,0,0,0,0,0,0,2015
-BLACK6IX,BLACK HOLE Entertainment,Male,2017,2021,Disband,0,0,6,6,4,0,0,2,2,0,3,2,2,0,0,0,0,0,0,0,2020
-BLANC7,Jackpot Entertainment,Male,2017,2019,Disband,3,0,7,7,4,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,2018
-BLAST,Kings Entertainment,Male,2014,2015,Disband,5,0,5,5,4,7,0,0,6,0,2,2,0,0,0,0,0,2,0,0,2014
-BLITZERS,Wuzo Entertainment,Male,2020,,Active,2,0,7,7,7,0,0,1,0,0,2,1,1,0,0,0,0,0,0,0,2021
-BLK,BYKING Entertainment,Male,2017,2018,Disband,0,0,7,6,4,1,0,1,0,0,0,6,1,0,0,0,0,0,0,0,2017
-block b,Seven Seasons,Male,2011,,Active,7,0,7,7,4,0,2,7,0,0,5,1,0,2,0,0,6,0,0,4,2018
-block chain,AF Entertainment,Male,2018,,Active,8,0,5,5,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2020
-Boys Republic,Universal Music Korea,Male,2013,2018,Disband,3,0,5,5,7,0,0,3,6,1,5,2,0,1,0,0,5,0,0,1,2018
-BOYS24,CJ E&M,Male,2016,2017,Disband,10,1,6,6,7,0,0,2,0,0,2,2,0,0,0,0,0,0,0,0,2017
-BLT,Shinhoo Entertainment,Male,2014,2015,Disband,4,0,7,7,8,3,0,1,0,0,1,4,0,0,0,0,0,0,0,0,2015
-BTOB,Cube Entertainment,Male,2012,,Active,9,0,6,7,3,1,2,15,4,0,6,1,0,1,0,0,7,0,0,10,2018
-BTS,BigHit Music ,Male,2013,,Active,1,0,7,7,6,0,0,14,0,0,5,7,2,7,0,0,15,7,0,4,2020
-build up,INAKIST Entertainment,Male,2019,,Active,1,0,6,3,3,3,0,0,0,0,2,3,0,0,0,0,0,0,0,0,2020
-Buzz(1),In Next Trend,Male,2003,2006,Disband,5,0,5,5,4,0,0,4,2,0,3,1,0,0,0,0,0,1,0,4,2006
-Buzz(2),In Next Trend,Male,2014,,Active,4,0,5,5,6,0,0,5,2,0,9,1,0,0,0,0,0,0,0,5,2021
-BXK,New Planet Entertainment,Male,2020,,Active,3,0,6,6,5,0,0,0,5,0,1,1,0,0,0,0,0,0,0,0,2020
-Bz boys,Chrome Entertainment,Male,2019,,Active,4,0,5,4,5,0,0,1,2,0,1,4,0,0,0,0,0,0,0,0,2019
-C-CLOWN,Yedang Entertainment,Male,2012,2015,Disband,6,0,6,6,5,0,0,4,2,1,3,4,2,0,0,0,0,0,0,0,2014
-Champs,JS Entertainment,Male,2013,2015,Disband,5,0,5,5,5,0,0,0,2,0,2,1,0,0,0,0,0,0,0,0,2014
-cici,UPVOTE Entertainment,Male,2019,2019,Disband,3,0,4,4,6,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,2019
-ciipher,Rain Company,Male,2021,,Active,3,0,7,7,4,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,2021
-CIX,C9 Entertainment ,Male,2019,,Active,0,0,5,5,7,0,0,4,3,0,1,1,0,1,0,0,3,0,0,0,2021
-Classmate,HF Music Company,Male,2017,,Active,5,0,3,3,9,0,0,3,3,0,8,3,0,0,0,0,0,0,0,0,2021
-CN19,SDQ Music Group,Male,2020,,Active,2,0,3,3,6,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,2020
-CNBLUE,FNC Entertainment,Male,2009,,Active,0,0,3,5,6,2,0,12,0,0,4,5,0,10,1,0,15,0,0,0,2021
-Code-V,CODE M Agency,Male,2010,2018,Disband,0,0,5,5,4,3,1,1,1,0,2,0,0,6,0,0,18,0,0,0,2018
-bless,CODE M Agency,Male,2007,2010,Disband,1,0,5,5,5,3,0,0,0,0,4,5,0,0,0,0,0,0,0,2,2010
-CRAVITY,Starship Entertainment,Male,2020,,Active,4,0,9,9,4,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,2021
-ROSS GENE,Amuse Korea,Male,2012,,Active,0,0,4,4,4,3,0,5,1,0,6,2,1,3,0,0,10,0,0,0,2019
-D-CRUNCH,Ai Grand Korea,Male,2018,,Active,0,1,8,9,3,1,1,4,0,0,3,2,0,0,0,0,1,0,0,0,2021
-D.COY,Rolling Culture One,Male,2019,,Active,4,0,5,5,3,0,0,0,0,0,2,5,0,0,0,0,0,0,0,1,2020
-D1CE,D1CE Entertainment,Male,2019,,Active,3,0,5,5,4,0,0,2,1,0,2,1,0,0,0,0,0,0,0,2,2021
-DAY6,JYP Entertainment,Male,2015,,Active,0,0,5,6,4,2,1,10,1,0,11,0,0,1,0,0,3,0,0,1,2021
-dgna,Xing Entertainment,Male,2010,,Active,6,0,4,5,7,1,0,2,3,0,5,1,1,2,0,0,8,0,0,0,2017
-dkb,Brave Entertainment,Male,2019,,Active,4,0,9,9,3,0,0,4,1,0,0,0,0,1,0,0,2,0,0,0,2021
-dmtn(1),2Works Entertainment,Male,2010,2013,Disband,4,0,6,7,5,1,0,2,2,0,3,2,0,0,0,0,0,0,0,0,2013
-dmtn(2),8PEXCOMPANY,Male,2020,,Active,1,0,6,6,9,0,0,0,10,0,1,1,0,0,0,0,0,0,0,0,2020
-DONGKIZ,Dongyo Entertainment,Male,2019,,Active,9,0,5,5,6,0,1,1,1,0,7,6,5,0,0,0,0,0,0,0,2021
-Double Eight,HY Company,Male,2015,2017,Disband,4,0,3,3,5,5,1,0,0,0,2,2,1,0,0,0,0,0,0,0,2017
-DRIPPIN,Woollim Entertainment,Male,2020,,Active,3,0,7,7,5,0,0,2,6,1,0,4,0,0,0,0,0,0,0,0,2021
-Drunken Tiger,Feel GHood Music,Male,1998,2018,Disband,4,0,1,2,5,1,0,10,0,0,4,2,0,0,0,0,0,0,0,0,2018
-DUSTIN,LPA Entertainment,Male,2019,,Active,1,0,8,8,10,0,1,0,0,0,1,4,3,0,0,1,0,0,0,0,2020
-E'LAST,E Entertainment,Male,2020,,Active,3,0,8,6,5,2,1,2,0,0,0,6,0,0,0,0,0,0,0,0,2020
-E7,Excellent Entertainment,Male,2012,2013,Disband,6,0,6,6,5,0,0,0,4,4,1,0,0,0,0,0,0,0,0,0,2012
-ELVIN CREW,HiCC,Male,2017,2017,Disband,6,0,5,5,9,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,2017
-ENHYPEN,Belift Lab,Male,2020,,Active,3,0,7,7,4,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2021
-ENOi,Kithewhale Company,Male,2019,2021,Disband,1,0,7,7,5,0,0,3,0,0,1,2,0,0,0,0,0,0,0,0,2020
-Epik High,YG Entertainment,Male,2003,,Active,4,0,3,3,4,0,0,15,1,0,2,1,0,0,0,0,1,0,0,1,2018
-EXO,SM Entertainment ,Male,2012,,Active,6,0,9,12,10,3,4,16,0,0,5,2,0,1,0,0,4,0,0,2,2020
-EXP EDITION,IMMABB Entertainment,Male,2016,,Active,6,1,4,4,7,0,0,1,1,0,1,2,0,0,0,0,0,0,0,0,2018
-F.able,Haeirum Entertainment,Male,2020,,Active,3,0,3,5,6,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2020
-F.CUZ,On The Bill Company,Male,2010,,Active,0,0,5,5,6,2,0,4,3,0,9,1,0,2,0,0,10,0,0,5,2020
-FALLANC,RF Entertainment,Male,2018,2019,Disband,7,0,4,4,9,0,0,0,4,0,1,3,0,0,1,0,0,0,0,0,2018
-FameUs,KN Media,Male,2014,2016,Disband,5,0,6,6,7,0,0,1,0,0,2,2,0,0,0,0,0,0,0,0,2015
-FANXY CHILD,KOZ Entertainment,Male,2019,,Active,0,0,6,6,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2019
-Forestella,Universal Music Korea,Male,2018,,Active,4,0,4,4,5,0,0,2,0,0,5,0,0,0,0,0,0,0,0,1,2020
-FTISLAND,FNC Entertainment,Male,2007,,Active,7,0,3,6,4,0,0,17,0,0,5,0,0,11,0,0,21,0,0,0,2019
-GHOST9,Maroo Entertainment,Male,2020,,Active,4,0,9,9,4,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,2021
-GIDONGDAE,2Y Entertainment,Male,2021,2021,Disband,0,0,5,5,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
-god(1),JYP Entertainment,Male,1999,2005,Disband,2,0,5,5,4,0,0,8,5,1,0,1,0,0,0,0,0,0,0,2,2005
-god(2),JYP Entertainment,Male,2014,,Active,1,0,5,5,6,0,0,2,1,0,4,1,0,0,0,0,0,0,0,1,2020
-Golden Child,Woollim Entertainment,Male,2017,,Active,1,0,10,11,5,1,0,6,0,0,3,0,0,0,0,0,0,0,0,3,2021
-GOT7,JYP Entertainment ,Male,2014,,Active,12,0,7,7,6,0,2,15,0,0,4,0,0,5,0,0,9,0,0,1,2021
-GreatGuys,DNA Entertainment,Male,2017,,Active,5,0,9,9,8,0,0,4,0,0,4,1,0,0,0,0,0,0,0,0,2021
-H.O.T,SM Entertainment,Male,1996,2001,Disband,0,0,5,5,5,0,0,9,0,0,0,1,0,0,0,0,0,0,0,2,2001
-HALO,HISTAR Entertainment,Male,2014,,Active,6,0,6,6,4,0,0,3,0,0,5,1,0,1,0,0,4,0,0,1,2018
-HBY,OPUS Entertainment,Male,2017,2020,Disband,2,0,4,5,4,1,1,0,1,0,2,0,0,0,0,0,0,0,0,0,2019
-HeartB,Marblepop Entertainment,Male,2014,2016,Disband,7,0,4,4,4,0,0,2,2,0,4,1,0,0,0,0,0,0,0,0,2015
-Herycle,Gul Dduk Entertainment,Male,2012,2014,Disband,1,0,5,3,4,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2014
-Hidden,Yanus Music,Male,2015,2016,Disband,7,0,5,5,5,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,2016
-HIDDEN FOLDER,Real Music Society,Male,2018,,Active,7,0,4,4,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
-HIGH4,N.A.P. Entertainment,Male,2014,2017,Disband,0,0,4,4,5,0,1,2,0,0,6,1,0,2,0,0,0,0,0,0,2017
-Highlight ,Around US Entertainment,Male,2016,,Active,6,0,4,4,3,0,0,4,0,0,2,1,0,0,0,0,0,0,0,0,2021
-BEAST,Cube Entertainment ,Male,2009,2016,Disband,0,0,6,6,5,0,0,12,2,0,11,6,0,3,0,0,17,0,0,12,2016
-HISTORY ,FAVE Entertainment,Male,2013,2017,Disband,2,0,5,5,3,0,0,5,1,0,1,3,0,1,0,0,2,0,0,0,2016
-HONEYST,FNC Entertainment,Male,2017,2019,Disband,6,0,4,4,7,0,0,0,0,0,2,3,0,0,0,0,0,0,0,4,2019
-HOTSHOT,Star Crew Entertainment,Male,2014,2021,Disband,8,0,6,6,3,0,0,2,1,0,3,1,0,0,0,0,1,0,0,0,2018
-Hwang Project,Jellyfish Entertainment,Male,2008,2011,Disband,2,0,3,3,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,2011
-I-REX,Tarzan Entertainment,Male,2013,2014,Disband,0,0,5,5,13,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,2013
-ikon,YG Entertainment,Male,2015,,Active,2,0,6,7,4,1,0,6,0,0,5,2,0,15,0,0,3,0,0,0,2021
-im,MBK Entertainment,Male,2017,,Active,0,0,3,4,5,1,0,0,1,0,1,3,0,0,0,0,0,0,0,0,2017
-IMFACT,Star Empire Entertainment,Male,2016,,Active,5,0,5,5,4,0,0,1,2,0,9,1,0,1,0,0,0,0,0,5,2020
-IN2IT,MMO Entertainment,Male,2017,,Active,4,0,6,8,11,2,0,1,0,0,4,2,0,0,0,0,2,0,0,2,2020
-infinte,Woollim Entertainment,Male,2010,,Active,0,0,6,7,11,1,2,12,0,0,10,0,0,3,0,0,7,0,0,3,2019
-INX,NA Entertainment,Male,2016,2017,Disband,3,0,5,5,5,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2017
-IZ,Music K Entertainment,Male,2017,,Active,3,0,4,4,7,0,0,2,4,0,6,5,0,0,0,0,0,0,0,0,2021
-JACE,Right Achievement Group,Male,2014,2016,Disband,3,0,5,5,5,0,0,1,4,0,2,8,2,0,0,0,0,0,0,1,2015
-Jacoby Planet,C9 Entertainment,Male,2015,,Active,5,0,4,5,12,1,0,1,1,0,3,3,0,0,0,0,0,0,0,1,2018
-JBJ,LOEN Entertainment,Male,2017,2018,Disband,0,0,6,6,4,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,2018
-JJCC,Jackie Chan Group Korea,Male,2014,,Active,0,0,5,7,3,2,0,2,0,0,4,1,0,0,0,0,2,0,0,0,2016
-JUO,Soundbox Music,Male,2020,,Active,3,0,4,4,3,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,2020
-JYJ,C-JeS Entertainment,Male,2010,,Active,2,0,2,3,6,1,0,3,0,0,2,0,0,2,0,0,1,0,0,0,2015
-KingdomS,Independent,Male,2018,2018,Disband,8,0,3,3,4,0,0,0,7,0,1,2,0,0,0,0,0,0,0,0,2018
-KINGDOM ,GF Entertainment,Male,2021,,Active,5,0,7,7,4,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,2021
-KNK,220 Entertainment,Male,2016,,Active,0,0,5,5,5,2,0,3,0,0,6,3,1,0,0,0,1,0,0,0,2020
-KOKOON,Yoonseo Group,Male,2018,,Active,6,0,5,5,8,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,2020
-LA POEM,Moss Music,Male,2020,,Active,0,0,4,4,4,0,0,1,0,0,0,2,0,0,0,0,0,3,0,1,2021
-LC9,Nega Network,Male,2013,2015,Disband,7,0,6,6,3,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,2014
-LedT,StarKim Entertainment,Male,2010,2016,Disband,6,0,3,5,4,7,0,3,0,0,10,4,0,0,0,0,0,0,0,2,2014
-Like A Movie,Top Cloud Entertainment,Male,2018,,Active,2,0,5,6,5,1,0,0,2,0,2,2,0,0,0,0,0,0,0,0,2019
-Limit,Independent,Male,2021,,Active,10,0,8,3,6,5,0,0,4,0,1,1,0,0,0,0,0,0,0,1,2021
-LIMITLESS ,ONO Entertainment,Male,2019,,Active,5,0,5,4,5,1,0,1,0,0,1,2,0,0,0,0,0,0,0,0,2019
-LST,Hyunda Company,Male,2018,,Active,1,0,5,6,5,3,0,0,0,0,3,2,0,0,0,0,0,0,0,0,2020
-LU:KUS,JWK Entertainment,Male,2014,,Active,4,0,3,5,4,2,0,1,0,0,5,8,0,0,0,0,3,0,0,1,2019
-LUCENTE,NOGA Entertainment,Male,2018,,Active,1,0,6,5,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2018
-LUNAFLY,Nega Network,Male,2012,2017,Disband,2,0,2,5,4,3,0,2,0,0,6,1,0,1,0,0,1,0,0,2,2016
-M.Crown,Star Pro Entertainment,Male,2015,2016,Disband,8,0,10,10,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2015
-M.O.N.T,FM Entertainment,Male,2019,,Active,6,0,3,3,7,0,0,3,0,0,5,1,0,0,0,0,0,0,0,0,2020
-MADTOWN,GNI Entertainmen,Male,2014,2017,Disband,0,0,7,7,5,0,0,3,0,0,1,0,0,1,0,0,0,0,0,1,2016
-MAP6,All-S Company,Male,2015,,Active,0,0,5,5,3,0,0,3,0,0,1,3,0,2,0,0,4,0,0,0,2019
-MASC,J Planet Entertainment,Male,2016,2020,Disband,6,0,4,4,4,4,0,1,3,1,3,0,0,0,0,0,0,0,0,0,2019
-MBLAQ,J.Tune Camp,Male,2009,,Hiatus,3,0,3,5,12,2,0,7,7,1,4,0,0,0,0,0,4,0,0,0,2015
-MCND,TOP Media,Male,2020,,Active,4,0,5,5,8,0,1,3,0,0,2,1,0,0,0,0,0,0,0,0,2021
-MIRAE ,DSP Media,Male,2021,,Active,0,0,7,5,4,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,2021
-MONSTA X,Starship Entertainment,Male,2015,,Active,0,0,6,7,4,1,0,12,0,0,3,0,0,4,0,0,15,0,0,7,2021
-MR.MR,E-HO Entertainment,Male,2012,2018,Disband,1,0,5,5,3,5,0,2,0,0,7,2,0,0,0,0,5,0,0,0,2018
-MustB,MustM Entertainment,Male,2019,,Active,6,0,5,7,4,2,0,1,0,0,1,2,2,0,1,0,0,0,0,0,2020
-MVP,PH Entertainment,Male,2017,,Active,2,0,7,7,5,0,0,1,0,0,1,2,0,0,0,0,0,2,0,0,2020
-MY.st,MYstar Entertainment ,Male,2018,,Active,3,0,5,5,4,0,0,1,0,0,1,2,0,2,2,0,0,0,0,0,2021
-MYNAME,H2media,Male,2011,,Hiatus,3,0,5,5,6,0,0,2,0,0,5,0,0,6,0,0,5,0,0,0,2018
-MYTEEN,The Music Works,Male,2017,2019,Disband,5,0,6,7,5,1,0,2,10,0,0,0,0,0,0,0,1,0,0,0,2018
-N-SONIC,C2K Entertainment,Male,2011,2016,Disband,11,0,6,5,4,3,0,3,1,0,5,1,0,0,0,0,1,0,0,1,2016
-N.CUS,Kyuri Entertainment,Male,2019,,Active,3,0,9,12,5,3,1,1,0,0,1,2,0,0,0,0,0,0,0,0,2021
-N.Flying,FNC Entertainment,Male,2013,,Active,3,0,5,5,4,2,0,7,0,0,4,5,0,1,0,0,8,0,0,5,2021
-N.O.M,JZ Factory Entertainment,Male,2013,,Active,8,0,3,5,4,2,0,0,2,0,4,0,0,0,0,0,0,3,0,0,2021
-N.tic,Yechan Media,Male,2018,,Active,3,0,4,5,4,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,2019
-NCT,SM Entertainment,Male,2016,,Active,4,0,23,14,4,9,4,2,0,0,1,4,0,0,0,0,0,0,0,0,2020
-NELL,Space Bohemian ,Male,2001,,Active,4,0,4,4,3,0,0,14,0,0,11,0,0,0,0,0,1,0,0,6,2021
-NewBlood,HEM Entertainment,Male,2015,2016,Disband,8,0,4,4,3,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,2016
-Newkidd,J-FLO Entertainment,Male,2019,,Active,5,0,7,7,5,0,2,0,0,0,2,0,0,0,0,0,0,0,0,1,2020
-NewTownBoyz,First Step Company,Male,2016,,Active,3,0,3,4,6,4,0,1,1,0,3,1,0,0,0,0,0,0,0,2,2018
-NOIR,LUK Factory,Male,2018,,Active,2,0,9,8,5,1,0,4,3,0,1,2,0,0,0,0,0,0,0,0,2020
-NOM ,JM Star Entertainment,Male,2013,2016,Disband,4,0,5,5,4,2,0,0,0,0,4,2,0,0,0,0,1,0,0,0,2015
-NPI,New Planet Entertainment,Male,2015,2016,Disband,0,0,6,6,4,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,2015
-NTB,High Choice Entertainment,Male,2016,,Active,1,0,6,6,5,0,0,1,5,1,0,5,1,0,0,0,2,0,0,0,2018
-NTX,Victory Company,Male,2021,,Active,5,0,10,10,7,0,0,1,0,0,4,0,0,0,0,0,0,0,0,1,2021
-NU'EST,Pledis Entertainment,Male,2012,,Active,5,0,5,5,3,0,2,10,0,0,3,6,0,3,0,0,5,0,0,3,2021
-NUBOYZ,Starship Entertainment,Male,2014,2015,Disband,8,0,4,4,6,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,2014
-OFF THE CUFF,Purple Entertainment,Male,2021,,Active,6,0,5,5,4,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,2020
-ON AIR,JG Entertainment,Male,2020,,Active,1,0,3,3,9,0,0,0,0,0,1,6,1,0,0,0,0,0,0,0,2020
-One O One,Starhaus Entertainment,Male,2015,2019,Disband,2,0,4,4,6,0,0,0,1,0,3,9,2,0,0,0,0,0,0,0,2016
-ONEUS,RBW,Male,2019,,Active,2,0,6,6,3,0,0,6,0,0,2,1,0,0,0,0,3,0,0,3,2021
-ONEWE,RBW,Male,2016,,Active,5,0,5,5,4,0,0,4,0,0,7,2,0,0,0,0,1,0,0,1,2020
-OnlyOneOf,8D Entertainment ,Male,2019,,Active,2,0,7,7,5,0,0,3,0,0,4,1,0,0,0,0,0,0,0,0,2021
-P1Harmony,FNC Entertainment,Male,2020,,Active,3,0,6,6,5,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2021
-PARADISE ,HLCOMPANY,Male,2017,,Active,1,0,5,5,4,2,0,1,0,0,2,4,0,0,0,0,0,0,0,0,2020
-PENTAGON,Cube Entertainment,Male,2016,,Active,5,0,9,10,4,1,0,12,0,0,3,10,0,4,0,0,7,1,0,4,2021
-PLATINUM78,IN MEDIA A&D,Male,2019,,Active,2,0,5,5,6,7,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2019
-PLT,Planetarium Records,Male,2018,,Active,5,0,6,6,8,0,0,2,8,1,3,5,0,0,0,0,0,0,0,0,2018
-PUREBOY,IT Entertainment,Male,2014,2018,Disband,4,0,5,11,8,11,1,1,0,0,1,0,0,0,0,0,1,0,0,1,2015
-RAINZ,KISS Entertainment,Male,2017,2018,Disband,3,0,7,7,5,0,0,2,0,0,1,1,0,0,0,0,2,0,0,1,2018
-RE:KIDS DREAM,Retune Music,Male,2020,,Active,6,0,4,4,4,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,2021
-Rion Five,Narda Entertainment,Male,2014,,Active,5,0,5,6,6,1,0,0,1,0,4,0,0,0,0,0,0,0,0,2,2016
-Road Boyz,COCONUT Entertainment,Male,2015,2016,Disband,6,0,5,5,5,0,0,1,0,0,4,4,0,0,0,0,0,0,0,1,2016
-ROMEO ,Hunus Entertainment,Male,2015,,Active,5,0,7,7,5,0,0,4,0,0,1,1,0,0,0,0,0,1,0,1,2019
-SECHSKIES(1),YG Entertainment,Male,1997,2000,Disband,5,1,6,6,4,0,0,6,0,0,0,4,0,0,0,0,0,0,0,0,2000
-SECHSKIES(2),YG Entertainment,Male,2016,,Active,0,0,4,6,5,2,0,4,0,0,1,2,0,0,0,0,0,0,0,0,2020
-Seo Taiji and Boys,Bando Records,Male,1992,1996,Disband,0,0,3,3,5,0,0,8,1,0,1,1,0,1,0,0,0,0,0,0,1996
-Seven O'clock,Forest Network,Male,2017,2021,Disband,3,0,7,6,3,2,0,4,0,0,3,0,0,0,0,0,0,0,0,4,2020
-SEVENTEEN,Pledis Entertainment,Male,2015,,Active,8,0,13,13,8,0,5,13,0,0,1,4,0,3,0,0,5,0,0,5,2021
-SF9,FNC Entertainment,Male,2016,,Active,2,0,9,9,6,0,0,10,1,0,2,0,0,8,0,0,6,0,0,2,2020
-SG Wannabe,Stone Music Entertainment,Male,2004,,Active,5,0,3,3,6,2,0,14,0,0,4,3,0,1,0,0,3,0,0,18,2018
-SHINee,SM Entertainment,Male,2008,,Active,0,0,4,5,4,1,0,16,0,0,0,0,0,6,0,0,15,0,0,0,2018
-SHINHWA,SM Entertainment,Male,1998,,Active,1,0,6,6,3,0,0,22,0,0,6,1,0,1,0,0,1,0,0,0,2018
-SIGMA,PLUSWIN,Male,2020,,Active,0,0,4,4,6,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,2021
-SIGNAL ,Elmusix ,Male,2018,,Active,4,0,4,4,5,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,2021
-SNUPER,WIDMAY Entertainment,Male,2015,,Active,5,0,6,6,2,0,0,6,0,0,3,1,0,1,0,0,7,1,0,2,2020
-Solid,RIAK,Male,1993,1997,Disband,3,0,3,3,5,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,1997
-SPECTRUM ,WYNN Entertainment,Male,2018,2020,Disband,5,0,6,7,12,1,0,2,0,0,3,1,0,0,0,0,0,0,0,0,2020
-SPEED,MBK Entertainment,Male,2012,2015,Disband,6,0,8,10,5,2,0,5,3,0,2,1,0,0,0,0,0,0,0,2,2015
-SS501,DSP Media,Male,2005,2010,Disband,8,0,5,5,3,0,1,5,0,0,9,0,0,2,0,0,3,0,0,8,2010
-Stray Kids,JYP Entertainment,Male,2018,,Active,11,0,8,9,3,1,1,8,0,0,6,1,0,3,0,0,3,0,0,4,2020
-Super Five,MBC Favorite Entertainment,Male,2020,,Active,3,0,5,5,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2020
-SUPER JUNIOR,SM Entertainment,Male,2005,,Active,2,0,10,13,3,3,5,16,1,0,0,1,0,5,0,0,20,0,0,3,2021
-SUPERKIDS,Kids Planet,Male,2019,,Active,0,0,8,8,6,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2019
-SuperM,SM Entertainment,Male,2019,,Active,4,0,7,7,5,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,2021
-SURPRISE U,Fantagio Music,Male,2017,,Active,5,0,4,5,2,1,0,1,0,0,0,3,0,0,0,0,0,0,0,1,2017
-T-MAX,Planet905 Entertainment,Male,2007,2012,Disband,1,0,4,3,4,3,0,1,0,0,6,1,0,0,0,0,1,1,0,4,2011
-T.E.N,Narda Entertainment,Male,2018,2018,Disband,0,0,10,10,5,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2018
-T1419,MLD Entertainment,Male,2021,,Active,0,0,9,9,3,0,0,0,4,0,4,1,0,0,1,0,0,0,0,0,2021
-TARGET,KJ Music Entertainment,Male,2014,,Active,2,0,7,7,7,0,0,1,0,0,4,13,2,0,0,0,3,1,0,0,2019
-TEEN TOP,TOP Media,Male,2010,,Active,3,0,5,6,3,1,0,11,3,3,0,1,0,1,1,0,8,0,0,2,2019
-THE BOYZ,Cre.ker Entertainment,Male,2017,,Active,0,0,11,12,8,1,0,6,0,0,5,2,0,2,0,0,0,0,0,2,2021
-The King,Stallion Entertainment,Male,2014,2019,Disband,5,0,5,5,4,0,0,1,0,0,4,5,0,1,0,0,0,0,0,1,2019
-The LEGEND,SS Entertainment,Male,2014,2016,Disband,10,1,5,5,4,0,0,2,0,0,4,5,0,0,0,0,0,0,0,0,2016
-THE MAN BLK,Stardium,Male,2018,,Active,6,0,7,10,10,3,0,2,0,0,0,2,0,0,0,0,0,0,0,3,2020
-The Rose,J&Star Company,Male,2017,,Active,2,0,4,4,4,0,0,2,9,2,4,0,0,0,0,0,0,0,0,2,2020
-The T-Bird,OD Entertainment,Male,2019,,Active,4,0,5,5,5,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2019
-TheEastLight.,Media Line Entertainment,Male,2016,2018,Disband,1,0,6,6,5,0,0,2,0,0,7,1,0,0,0,0,0,0,0,0,2018
-TO.1,The Best Entertainment,Male,2018,2018,Disband,1,0,8,5,4,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2018
-TO1,Stone Music Entertainment,Male,2020,,Active,6,0,10,10,4,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,2021
-TraxX,SM Entertainment,Male,2004,,Hiatus,5,0,2,4,4,3,0,4,3,0,4,0,1,0,0,0,5,0,0,6,2018
-TRCNG,TS Entertainment,Male,2017,,Active,3,0,8,10,6,0,0,1,0,0,3,5,0,0,0,0,3,0,0,0,2019
-TREASURE,YG Entertainment,Male,2020,,Active,1,0,12,12,2,0,0,1,0,3,3,0,0,1,0,0,2,0,0,0,2021
-TREI,Banana Culture,Male,2017,2020,Disband,8,0,3,2,3,1,0,1,0,2,2,2,0,0,0,0,0,0,0,0,2019
-Trigger ,DY Entertainment,Male,2019,,Active,9,0,4,4,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2020
-TRITOPS,VL Entertainment ,Male,2007,,Active,6,0,4,3,3,2,0,2,0,0,13,1,0,0,0,0,23,0,0,2,2017
-Trophy,Family Music Entertainment,Male,2015,2016,Disband,3,0,5,5,6,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,2015
-TROY,Brand New Music,Male,2014,2017,Disband,0,0,4,4,6,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,2014
-Trusty,Playmusic Ground,Male,2020,2020,Disband,0,0,4,4,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2020
-TST,KJ Music Entertainment,Male,2017,,Active,5,0,4,7,7,3,0,2,0,0,4,0,0,0,0,0,0,0,0,0,2020
-Turbo(1),The Turbo Company,Male,1995,2000,Disband,3,0,3,3,6,2,0,9,5,0,0,0,0,0,0,0,0,0,0,0,2000
-Turbo(2),The Turbo Company,Male,2015,,Active,0,0,3,3,4,0,0,2,0,0,0,11,0,0,0,0,0,0,0,0,2017
-TVXQ!,SM Entertainment,Male,2003,,Active,6,0,2,5,5,3,0,11,0,0,4,2,0,18,0,0,49,0,0,8,2020
-TXT,BigHit Music,Male,2019,,Active,6,0,4,4,3,0,0,5,0,0,1,1,0,1,0,0,3,0,0,1,2021
-U-KISS,NH Media,Male,2008,,Active,7,0,3,6,6,7,0,15,0,0,10,1,0,9,0,0,20,0,0,3,2020
-UNB,PocketDol Studio,Male,2018,2019,Disband,3,0,9,9,4,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,2018
-Underdog,Independent ,Male,2013,2017,Disband,5,0,6,6,4,17,0,0,0,0,5,0,0,0,2,0,0,0,0,0,2015
-UNIQ,Yue Hua Entertainment,Male,2014,,Active,3,0,5,5,3,0,0,1,0,0,2,0,0,1,0,0,7,0,0,3,2016
-UNVS,CHITWN Music,Male,2016,,Active,4,0,5,5,5,6,0,1,4,2,3,0,0,0,0,0,3,0,0,0,2020
-UP10TION,TOP Media,Male,2015,,Active,1,0,10,10,4,0,0,12,1,0,0,6,0,0,0,0,3,0,0,1,2020
-V.O.S,J-Soul Company,Male,2004,,Active,0,0,3,3,5,2,0,8,0,0,14,3,0,0,0,0,0,0,0,9,2020
-VANNER,VT Entertainment,Male,2019,,Active,2,0,5,5,4,0,0,1,1,0,2,6,0,0,0,0,0,0,0,0,2020
-VARSITY,Jungle Entertainment ,Male,2017,,Active,2,0,7,12,6,5,1,1,0,0,4,15,0,0,0,0,0,0,0,0,2020
-VAV,A team,Male,2015,,Active,3,0,7,7,4,6,0,6,0,0,9,1,0,0,0,0,0,0,0,0,2021
-VERIVERY,Jellyfish Entertainment,Male,2019,,Active,5,0,7,7,4,0,0,5,3,0,3,0,0,0,0,0,0,0,0,3,2021
-VERMUDA,Pacemaker Entertainment,Male,2017,2019,Disband,5,0,5,6,7,1,0,1,0,0,1,3,0,0,0,0,0,0,0,0,2018
-VICTON,Play M Entertainment,Male,2016,,Active,4,0,7,7,5,0,0,7,2,0,2,3,0,0,0,0,0,0,0,1,2021
-VIXX,Jellyfish Entertainment,Male,2012,,Active,1,0,5,6,5,1,1,8,0,0,10,0,0,3,0,0,6,0,0,1,2019
-VOISPER,Evermore Music,Male,2016,,Active,7,0,4,4,6,0,0,2,3,0,9,0,0,0,0,0,0,0,0,2,2020
-VROMANCE,RBW,Male,2016,,Active,6,0,4,4,4,0,0,2,0,0,10,2,0,0,0,0,0,0,0,6,2020
-VX,JJ Entertainment,Male,2015,2017,Disband,4,0,5,5,4,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,2017
-W.A.O,KINGTOP Entertainment,Male,2021,,Active,3,0,7,7,5,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2021
-W.I.T,Team Wit,Male,2021,,Active,9,0,5,5,6,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,2021
-W24,JARMY Entertainment,Male,2018,,Active,0,0,4,5,3,1,0,2,0,0,6,0,0,0,0,0,0,0,0,1,2020
-Wanna One,Swing Entertainment,Male,2017,2019,Disband,5,0,11,11,9,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,2018
-WE IN THE ZONE,Choon Entertainment,Male,2018,,Active,0,0,3,4,4,2,0,2,0,0,3,0,0,0,0,0,0,0,0,0,2020
-WEi,OUI Entertainment,Male,2020,,Active,5,0,6,6,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2021
-Welldone Potato,Banana Culture,Male,2014,2016,Disband,0,0,4,4,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2015
-WINNER,YG Entertainment,Male,2014,,Active,4,0,4,5,4,1,0,7,9,2,5,0,0,16,0,0,4,6,0,0,2020
-withus,withHC,Male,2020,,Active,0,0,5,5,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2021
-WOW ,A.CONIC,Male,2021,,Active,2,0,7,7,5,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,2021
-X1,Swing Entertainment,Male,2019,2020,Disband,4,0,11,11,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2019
-XENEX,Company Gi Eok,Male,2020,,Active,10,0,5,5,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
-XENO-T,Hunus Entertainment ,Male,2013,,Active,5,0,5,13,5,8,2,5,0,0,1,3,0,0,0,0,1,0,0,3,2018
-Xst,Midas Entertainment,Male,2015,,Active,0,0,6,6,3,2,0,1,0,0,5,1,0,0,2,0,1,0,0,0,2019
-Y&W,INAKIST Entertainment,Male,2020,,Active,4,0,4,4,4,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,2020
-YDPP,Starship Entertainment,Male,2018,2019,Disband,0,0,4,4,3,0,0,0,0,0,1,4,0,0,2,0,0,0,0,0,2018
-ZE:A,Star Empire Entertainment,Male,2010,,Hiatus,0,0,9,9,5,0,3,4,1,0,5,0,0,3,0,0,4,0,0,1,2015
-ZEST,Zenith Media Contents,Male,2014,2016,Disband,0,0,5,6,4,5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2014
-ZPZG,J-Star Entertainment,Male,2014,2016,Disband,1,0,4,4,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2015
+a.c.e,Beat Interactive,Male,2017,,Active,10,1,5,5,5,0,0,0,3,1,2,1,2,0,0,0,0,3,0,2,2021
+A.clan,Colabs,Male,2012,,Active,5,0,4,1,5,10,0,0,2,0,2,8,0,0,0,0,0,0,0,0,2016
+A6P,DS Entertainment,Male,2015,2016,Disband,3,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+AA,Wellmade StarM,Male,2011,2015,Disband,4,0,6,5,5,1,1,0,1,0,1,3,0,0,0,0,0,0,0,0,2013
+AB6IX,Brand New Music,Male,2019,,Active,6,0,4,4,5,1,1,1,0,5,0,0,0,0,0,0,0,0,0,2,2021
+AboutU,Colabs,Male,2018,,Active,5,0,3,3,4,1,0,0,0,1,0,11,0,0,0,0,0,0,0,0,2021
+all-star,BurnHard Entertainment,Male,2015,2017,Disband,3,0,2,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+alldayz,GUYS Ent,Male,2017,2017,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+AlphaBAT,APB Entertainment,Male,2013,,Active,10,1,5,3,9,8,0,0,2,0,3,4,1,0,0,0,0,0,0,0,2020
+Apeace,Golden Goose Entertainment,Male,2010,,Active,4,2,12,0,21,27,3,0,2,0,0,0,0,3,1,0,10,0,0,0,2019
+apl,DAM Entertainment,Male,2016,,Active,3,0,5,5,5,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,2017
+argon,MSH Entertainment,Male,2019,,Active,6,0,6,6,6,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2019
+ashgray,Bigfoot Records,Male,2009,,Active,3,0,2,2,4,2,0,1,2,0,0,13,0,0,0,0,0,0,0,6,2018
+astin,KINGTOP Entertainment,Male,2019,2019,Disband,3,0,8,8,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2019
+Astro,Fantagio Music,Male,2016,,Active,11,0,6,6,6,0,1,3,7,1,0,3,1,0,1,0,0,0,0,1,2021
+ateenz,KQ Entertainment,Male,2018,,Active,7,1,8,8,8,0,0,1,6,1,0,0,0,2,1,0,0,0,0,2,2021
+ATO6,YG KPLUS,Male,2021,,Active,0,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+aweek,Illusion Entertainment,Male,2018,,Active,7,2,7,7,8,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2020
+axisB,AXB Entertainment,Male,2016,2017,Disband,6,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,2017
+B.A.P,TS Entertainment,Male,2012,2019,Disband,5,0,4,4,6,2,1,2,5,1,8,4,0,3,0,0,9,0,0,0,2018
+B.heart,Poong Entertainment,Male,2016,2018,Disband,4,0,4,4,4,0,0,0,1,0,0,5,0,0,0,0,0,0,0,1,2017
+B.I.G,GH Entertainment,Male,2014,,Active,3,0,4,3,5,3,1,0,1,0,7,2,0,0,0,0,0,0,0,1,2019
+B.I.T(2017),SD.ent,Male,2017,2017,Disband,0,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+B.O.i,M.fel Entertainment,Male,2013,2013,Disband,1,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+B1A4,WM Entertainment,Male,2011,,Active,6,2,5,5,5,0,0,4,7,0,0,4,0,5,0,0,10,1,0,8,2020
+Bae173,PocketDol Studio,Male,2020,,Active,2,0,9,9,9,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2021
+baikal,Baikal Entertainment,Male,2017,2019,Disband,5,0,7,7,7,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+Bandage,Play M Entertainment,Male,2020,,Active,4,0,4,4,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2020
+BDC,Brand New Music,Male,2019,,Active,6,0,3,3,3,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,2021
+be.A,Chrome Entertainment,Male,2014,2017,Disband,5,0,5,5,5,2,0,0,1,0,1,4,0,0,0,0,0,0,0,1,2017
+beatwin,Elen Entertainment,Male,2017,2017,Disband,6,0,5,5,6,1,0,0,2,0,0,5,0,0,0,0,3,0,0,1,2017
+BECZ,H&H Entertainment,Male,2020,2020,Disband,0,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Boyfriend,Starship Entertainment,Male,2011,2019,Disband,3,0,6,6,6,0,0,1,5,0,3,3,0,3,1,0,12,0,0,0,2019
+bga,Wong Fu Productions,Male,2016,,Active,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+big brain,MAJOR9,Male,2015,2017,Disband,4,0,4,4,4,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2016
+bigbang,YG Entertainment,Male,2006,,Active,5,0,4,4,5,1,0,3,5,11,7,1,4,4,3,11,5,0,0,0,2018
+bigflo,Colabs,Male,2014,,Active,6,0,3,5,0,9,1,0,5,0,0,1,0,0,1,0,1,0,0,0,2018
+bigstar,Brave Entertainment,Male,2012,2019,Disband,5,0,5,5,5,0,0,0,3,0,0,4,0,0,0,0,0,0,0,1,2015
+BLACK6IX,BLACK HOLE Entertainment,Male,2017,2021,Disband,5,0,6,6,6,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,2020
+BLANC7,Jackpot Entertainment,Male,2017,2019,Disband,5,0,7,7,7,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,2018
+BLAST,Kings Entertainment,Male,2014,2015,Disband,2,0,5,0,5,12,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+BLITZERS,Wuzo Entertainment,Male,2020,,Active,5,0,7,7,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2021
+BLK,BYKING Entertainment,Male,2017,2018,Disband,5,0,7,6,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2017
+block b,Seven Seasons,Male,2011,,Active,5,4,7,7,7,0,2,1,6,0,2,2,0,1,1,0,6,0,0,4,2018
+block chain,AF Entertainment,Male,2018,,Active,2,0,5,5,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+Boys Republic,Colabs,Male,2013,2018,Disband,6,0,5,5,5,0,0,0,3,0,0,5,0,1,0,0,5,0,0,1,2018
+BOYS24,CJ E&M,Male,2016,2017,Disband,1,0,8,8,8,0,5,2,0,0,1,1,0,0,0,0,0,0,0,0,2017
+BLT,Colabs,Male,2014,2015,Disband,4,0,7,4,7,6,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2015
+BTOB,Cube Entertainment,Male,2012,,Active,11,2,6,6,7,1,2,2,11,2,0,6,4,1,0,0,7,0,0,6,2018
+BTS,BigHit Music,Male,2013,,Active,13,0,7,7,7,0,0,4,7,3,1,4,1,4,0,3,10,5,1,2,2020
+build up,INAKIST Entertainment,Male,2019,,Active,4,1,6,2,3,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+Buzz(1),In Next Trend,Male,2003,2006,Disband,2,0,5,5,7,2,0,1,3,1,0,3,0,0,0,0,0,0,0,8,2006
+Buzz(2),In Next Trend,Male,2014,,Active,2,0,5,5,5,0,0,3,0,1,0,9,0,0,0,0,0,0,0,1,2021
+BXK,New Planet Entertainment,Male,2020,,Active,6,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Bz boys,Chrome Entertainment,Male,2019,,Active,7,0,5,5,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2019
+C-CLOWN,Yedang Entertainment,Male,2012,2015,Disband,0,0,6,6,6,0,0,0,4,0,0,3,0,0,0,0,0,0,0,0,2014
+Champs,JS Entertainment,Male,2013,2015,Disband,2,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+cici,UPVOTE Entertainment,Male,2019,2019,Disband,5,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+ciipher,Rain Company,Male,2021,,Active,6,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+CIX,C9 Entertainment,Male,2019,,Active,7,0,5,5,5,0,0,0,0,4,0,1,0,0,0,1,2,1,0,0,2021
+Classmate,HF Music Company,Male,2017,,Active,4,0,3,3,3,0,0,0,0,3,0,8,0,0,0,0,0,0,0,0,2021
+CN19,Colabs,Male,2020,,Active,1,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+CNBLUE,FNC Entertainment,Male,2009,,Active,9,0,3,5,5,2,0,2,8,2,0,2,2,8,2,0,15,0,0,0,2021
+Code-V,CODE M Agency,Male,2010,2018,Disband,3,0,5,3,6,4,0,1,0,0,0,2,0,5,0,1,18,0,0,2,2018
+bless,CODE M Agency,Male,2007,2010,Disband,3,0,3,3,5,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2009
+CRAVITY,Starship Entertainment,Male,2020,,Active,9,0,9,9,9,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2021
+CROSS GENE,Amuse Korea,Male,2012,,Active,5,0,4,3,6,4,0,0,5,0,0,6,0,1,1,1,3,7,0,0,2019
+D-CRUNCH,Ai Grand Korea,Male,2018,,Active,7,0,8,8,8,0,1,0,4,0,1,2,0,0,0,0,1,0,0,0,2021
+D.COY,Rolling Culture One,Male,2019,,Active,8,0,5,5,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,2020
+D1CE,D1CE Entertainment,Male,2019,,Active,7,1,5,5,5,0,0,0,2,0,0,2,0,0,0,0,0,0,0,2,2021
+DAY6,Colabs,Male,2015,,Active,8,1,5,5,6,1,1,3,7,0,0,11,0,1,0,0,2,1,0,1,2021
+dgna,Colabs,Male,2010,,Active,3,0,4,4,5,1,0,0,2,0,3,2,0,0,2,0,8,0,0,0,2017
+dkb,Brave Entertainment,Male,2019,,Active,7,0,9,9,9,0,0,1,3,0,0,0,0,0,1,0,2,0,0,0,2021
+dmtn(1),2Works Entertainment,Male,2010,2013,Disband,1,0,6,6,6,0,0,0,2,0,0,3,0,0,0,0,0,0,0,1,2013
+dmtn(2),8PEXCOMPANY,Male,2020,,Active,1,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+DONGKIZ,Dongyo Entertainment,Male,2019,,Active,5,0,5,5,5,0,1,0,1,0,4,3,0,0,0,0,0,0,0,0,2021
+Double Eight,HY Company,Male,2015,2017,Disband,3,0,6,3,5,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+DRIPPIN,Woollim Entertainment,Male,2020,,Active,6,0,7,7,7,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2021
+Drunken Tiger,Feel GHood Music,Male,1998,2018,Disband,2,0,2,2,2,0,0,10,0,0,0,4,0,0,0,0,0,0,0,4,2018
+DUSTIN,LPA Entertainment,Male,2019,,Active,4,1,7,7,9,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+E'LAST,E Entertainment,Male,2020,,Active,7,0,8,8,8,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2020
+E7,Excellent Entertainment,Male,2012,2013,Disband,2,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2012
+ELVIN CREW,HiCC,Male,2017,2017,Disband,3,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+ENHYPEN,Belift Lab,Male,2020,,Active,8,0,7,7,7,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2021
+ENOi,Kithewhale Company,Male,2019,2021,Disband,2,0,7,7,7,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,2020
+EPEX,C9 Entertainment,Male,2021,,Active,8,0,8,8,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2021
+Epik High,OURS Co.,Male,2003,,Active,5,0,3,3,3,0,0,10,1,4,0,2,0,2,0,0,0,1,0,6,2018
+EXO,SM Entertainment,Male,2012,,Active,9,5,9,9,12,3,4,6,2,9,0,4,1,1,0,0,3,1,1,1,2020
+EXP EDITION,IMMABB Entertainment,Male,2016,,Active,5,0,4,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2018
+F.able,Haeirum Entertainment,Male,2020,,Active,5,0,3,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+F.CUZ,On The Bill Company,Male,2010,,Active,4,2,5,3,4,3,0,0,4,0,0,8,1,0,2,0,10,0,0,5,2020
+FALLANC,RF Entertainment,Male,2018,2019,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+FameUs,Colabs,Male,2014,2016,Disband,3,0,6,6,6,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2015
+FANXY CHILD,KOZ Entertainment,Male,2019,,Active,0,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2019
+Forestella,Colabs,Male,2018,,Active,2,0,4,4,4,0,0,2,0,0,0,5,0,0,0,0,0,0,0,11,2020
+FTISLAND,FNC Entertainment,Male,2007,,Active,7,2,3,3,5,3,0,7,6,4,0,5,0,10,1,0,21,0,0,0,2019
+GHOST9,Maroo Entertainment,Male,2020,,Active,5,0,9,9,9,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2021
+GIDONGDAE,2Y Entertainment,Male,2021,2021,Disband,7,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+god(1),JYP Entertainment,Male,1999,2005,Disband,4,0,5,5,5,0,0,7,0,0,0,0,0,0,0,0,0,0,0,2,2005
+god(2),JYP Entertainment,Male,2014,,Active,4,0,5,5,5,0,0,1,0,2,1,3,0,0,0,0,0,0,0,1,2020
+Golden Child,Woollim Entertainment,Male,2017,,Active,9,0,10,10,11,1,0,1,5,0,2,0,1,0,0,0,0,0,0,3,2021
+GOT7,JYP Entertainment,Male,2014,,Active,12,0,7,7,7,0,2,3,11,0,0,4,0,1,4,0,5,4,1,0,2021
+GreatGuys,DNA Entertainment,Male,2017,,Active,5,2,9,9,9,0,0,0,2,1,0,4,0,0,0,0,0,0,0,0,2021
+H.O.T,SM Entertainment,Male,1996,2001,Disband,0,0,5,5,5,0,0,5,0,4,0,0,0,0,0,0,0,0,0,2,2001
+HALO,HISTAR Entertainment,Male,2014,,Active,6,3,6,6,6,0,0,0,3,0,3,2,0,1,0,0,4,0,0,1,2018
+HBY,OPUS Entertainment,Male,2017,2020,Disband,5,0,4,4,5,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,2019
+HeartB,Marblepop Entertainment,Male,2014,2016,Disband,6,0,4,4,4,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,2015
+Herycle,Gul Dduk Entertainment,Male,2012,2014,Disband,3,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+Hidden,Yanus Music,Male,2015,2016,Disband,1,0,5,5,5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2016
+HIDDEN FOLDER,Colabs,Male,2020,,Active,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+HIGH4,N.A.P. Entertainment,Male,2014,2017,Disband,8,0,4,4,4,0,1,0,2,0,0,5,1,0,2,0,0,0,0,0,2017
+Highlight�,Around US Entertainment,Male,2016,,Active,6,0,4,4,6,2,0,0,3,1,0,2,0,0,0,0,0,0,0,0,2021
+BEAST,Cube Entertainment,Male,2009,2016,Disband,6,0,4,4,6,2,0,3,8,1,0,11,0,3,0,0,9,8,0,12,2016
+HISTORY�,FAVE Entertainment,Male,2013,2017,Disband,6,0,5,5,5,0,0,0,5,0,1,0,0,0,1,0,2,0,0,0,2016
+HONEYST,FNC Entertainment,Male,2017,2019,Disband,6,0,4,4,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,2019
+HOTSHOT,Star Crew Entertainment,Male,2014,2021,Disband,6,1,6,6,6,0,0,0,2,0,1,2,0,0,0,0,1,0,0,0,2018
+Hwang Project,Jellyfish Entertainment,Male,2008,2011,Disband,0,0,3,3,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2011
+I-REX,Tarzan Entertainment,Male,2013,2014,Disband,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+ikon,YG Entertainment,Male,2015,,Active,7,0,6,6,7,1,0,2,3,1,1,4,0,4,3,8,1,2,0,0,2021
+im,MBK Entertainment,Male,2017,,Active,1,1,3,3,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+IMFACT,Star Empire Entertainment,Male,2016,,Active,6,0,5,5,5,0,0,0,1,0,3,6,0,0,1,0,0,0,0,5,2020
+IN2IT,MMO Entertainment,Male,2017,,Active,6,4,6,6,8,2,0,0,1,0,4,0,0,0,0,0,1,1,0,2,2020
+infinte,Woollim Entertainment,Male,2010,,Active,6,2,6,6,7,1,2,3,6,3,2,7,1,3,0,0,6,1,0,3,2019
+INX,NA Entertainment,Male,2016,2017,Disband,5,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+IZ,Music K Entertainment,Male,2017,,Active,7,0,4,4,4,0,0,0,2,0,4,2,0,0,0,0,0,0,0,0,2021
+JACE,Right Achievement Group,Male,2014,2016,Disband,4,0,5,5,5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,2015
+Jacoby Planet,C9 Entertainment,Male,2015,,Active,1,0,4,4,5,1,0,0,1,0,0,3,0,0,0,0,0,0,0,1,2018
+JBJ,LOEN Entertainment,Male,2017,2018,Disband,5,0,6,6,6,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2018
+JJCC,Jackie Chan Group Korea,Male,2014,,Active,8,0,5,5,7,2,0,0,2,0,0,4,0,0,0,0,2,0,0,0,2016
+JUO,Soundbox Music,Male,2020,,Active,2,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,2020
+JYJ,C-JeS Entertainment,Male,2010,,Active,4,0,2,2,3,1,0,2,0,1,0,2,0,1,1,0,1,0,0,0,2015
+Kingdom�2018,Independent,Male,2018,2018,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+KINGDOM�2020,GF Entertainment,Male,2021,,Active,5,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+KNK,220 Entertainment,Male,2016,,Active,9,0,5,5,6,1,0,3,0,0,4,2,0,0,0,0,1,0,0,0,2020
+KOKOON,Yoonseo Group,Male,2018,,Active,4,0,5,5,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+LA POEM,Moss Music,Male,2020,,Active,7,0,4,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2021
+LC9,Nega Network,Male,2013,2015,Disband,4,0,5,5,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2014
+LedT,StarKim Entertainment,Male,2010,2016,Disband,2,0,3,1,5,11,0,0,3,0,2,8,0,0,0,0,0,0,0,2,2014
+Like A Movie,Top Cloud Entertainment,Male,2018,,Active,3,0,5,5,6,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+Limit,Independent,Male,2021,,Active,2,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+LIMITLESS�,ONO Entertainment,Male,2019,,Active,4,0,5,5,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2019
+LST,Hyunda Company,Male,2018,,Active,2,0,5,3,6,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+LU:KUS,JWK Entertainment,Male,2014,,Active,5,0,4,3,5,3,0,0,1,0,0,5,0,0,0,0,3,0,0,1,2019
+LUCENTE,NOGA Entertainment,Male,2018,,Active,5,3,6,5,6,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2018
+LUNAFLY,Nega Network,Male,2012,2017,Disband,4,0,2,2,5,3,0,1,1,0,2,4,0,1,0,0,0,1,0,2,2016
+M.Crown,Star Pro Entertainment,Male,2015,2016,Disband,3,0,10,10,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+M.O.N.T,FM Entertainment,Male,2019,,Active,7,0,3,3,3,0,0,0,3,0,0,5,0,0,0,0,0,0,0,0,2020
+MADTOWN,GNI Entertainmen,Male,2014,2017,Disband,3,0,7,7,7,0,0,0,3,0,0,1,0,0,1,0,0,0,0,1,2016
+MAP6,All-S Company,Male,2015,,Active,5,4,5,5,5,0,0,0,0,0,3,1,0,2,0,0,4,0,0,0,2019
+MASC,J Planet Entertainment,Male,2016,2020,Disband,7,0,4,2,4,6,0,0,1,0,0,3,0,0,0,0,0,0,0,0,2019
+MBLAQ,J.Tune Camp,Male,2009,,Active,2,3,3,3,5,2,0,1,6,0,2,2,0,1,0,0,4,0,0,0,2015
+MCND,TOP Media,Male,2020,,Active,5,0,5,5,5,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,2021
+MIRAE�,DSP Media,Male,2021,,Active,7,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+MONSTA X,Starship Entertainment,Male,2015,,Active,7,0,6,6,7,1,0,3,9,0,0,3,0,4,0,0,9,6,0,7,2021
+MR.MR,E-HO Entertainment,Male,2012,2018,Disband,5,0,5,3,5,6,0,0,2,0,0,7,0,0,0,0,5,0,0,0,2018
+MustB,MustM Entertainment,Male,2019,,Active,7,0,5,5,7,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2020
+MVP,PH Entertainment,Male,2017,,Active,5,0,7,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2020
+MY.st,MYstar Entertainment,Male,2018,,Active,7,1,5,5,5,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,2021
+MYNAME,H2media,Male,2011,,Active,9,0,5,5,5,0,0,0,2,0,4,1,0,6,0,0,5,0,0,0,2018
+MYTEEN,The Music Works,Male,2017,2019,Disband,4,0,6,6,7,1,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2018
+N-SONIC,C2K Entertainment,Male,2011,2016,Disband,5,0,6,3,6,7,0,0,3,0,0,5,0,0,0,0,0,1,0,1,2016
+N.CUS,Kyuri Entertainment,Male,2019,,Active,8,1,9,9,12,3,1,0,1,0,0,1,0,0,0,0,0,0,0,0,2021
+N.Flying,FNC Entertainment,Male,2013,,Active,12,0,5,3,4,3,0,0,7,0,1,2,1,1,0,0,6,1,0,5,2021
+N.O.M,JZ Factory Entertainment,Male,2013,,Active,5,0,3,2,5,3,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2021
+N.tic,Yechan Media,Male,2018,,Active,4,0,4,4,5,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2019
+NCT,SM Entertainment,Male,2016,,Active,11,0,23,14,14,9,4,2,0,0,0,1,0,0,0,0,0,0,0,0,2020
+NELL,Space Bohemian,Male,2001,,Active,7,0,4,4,4,0,0,10,2,2,1,10,0,0,0,0,0,1,0,6,2021
+NewBlood,HEM Entertainment,Male,2015,2016,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Newkidd,J-FLO Entertainment,Male,2019,,Active,7,1,7,7,7,0,2,0,0,0,2,0,0,0,0,0,0,0,0,1,2020
+NewTownBoyz,First Step Company,Male,2016,,Active,4,0,3,2,4,5,0,1,0,0,0,3,0,0,0,0,0,0,0,2,2018
+NOIR,LUK Factory,Male,2018,,Active,7,0,9,9,9,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,2020
+NOM�,JM Star Entertainment,Male,2013,2016,Disband,2,0,5,5,5,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,2015
+NPI,New Planet Entertainment,Male,2015,2016,Disband,3,0,6,6,6,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+NTB,High Choice Entertainment,Male,2016,,Active,7,1,6,6,6,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,2018
+NTX,Victory Company,Male,2021,,Active,3,0,10,10,10,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,2021
+NU'EST,Pledis Entertainment,Male,2012,,Active,10,0,5,5,5,0,2,2,8,0,1,1,1,2,0,0,2,3,0,3,2021
+NUBOYZ,Starship Entertainment,Male,2014,2014,Disband,0,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2014
+OFF THE CUFF,Purple Entertainment,Male,2021,,Active,2,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+ON AIR,JG Entertainment,Male,2020,,Active,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+One O One,Starhaus Entertainment,Male,2015,2019,Disband,5,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2016
+ONEUS,RBW,Male,2019,,Active,8,0,6,6,6,0,0,1,5,0,1,1,0,0,0,0,3,0,0,2,2021
+ONEWE,RBW,Male,2016,,Active,6,0,5,5,5,0,0,1,2,1,1,6,0,0,0,0,0,1,0,1,2020
+ONF,WM Entertainment,Male,2017,,Active,11,0,6,6,7,1,2,1,5,0,0,0,0,0,0,0,2,0,0,6,2021
+OnlyOneOf,8D Entertainment,Male,2019,,Active,7,0,7,7,7,0,0,0,3,0,2,2,0,0,0,0,0,0,0,0,2021
+P1Harmony,FNC Entertainment,Male,2020,,Active,9,0,6,6,6,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2021
+PARADISE,HLCOMPANY,Male,2017,,Active,6,1,5,5,6,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2020
+PENTAGON,Cube Entertainment,Male,2016,,Active,13,2,9,9,10,1,0,1,11,0,3,0,0,1,4,0,2,5,0,4,2021
+Phantom,Brand New Music,Male,2011,2017,Disband,2,0,3,3,3,0,0,1,2,0,8,0,1,0,0,0,0,0,0,4,2015
+PLATINUM78,IN MEDIA A&D,Male,2019,,Active,3,0,5,0,7,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2019
+PLT,Planetarium Records,Male,2018,,Active,5,0,6,6,6,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,2018
+PUREBOY,IT Entertainment,Male,2014,2018,Disband,4,0,5,0,11,16,1,0,1,0,0,1,0,0,0,0,1,0,0,1,2015
+RAINZ,KISS Entertainment,Male,2017,2018,Disband,7,0,7,7,7,0,0,0,2,0,0,1,0,0,0,0,2,0,0,1,2018
+RE:KIDS DREAM,Retune Music,Male,2020,,Active,4,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+Rion Five,Narda Entertainment,Male,2014,,Active,7,0,5,5,6,1,0,0,0,0,0,3,1,0,0,0,0,0,0,2,2016
+Road Boyz,COCONUT Entertainment,Male,2015,2016,Disband,5,0,5,5,5,0,0,0,1,0,0,4,0,0,0,0,0,0,0,1,2016
+ROMEO�,Hunus Entertainment,Male,2015,,Active,5,3,7,7,7,0,0,0,4,0,1,0,0,0,0,0,0,0,0,1,2019
+SECHSKIES(1),DSP Media,Male,1997,2000,Disband,3,0,6,6,6,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,2000
+SECHSKIES(2),YG Entertainment,Male,2016,,Active,3,0,4,4,6,2,0,1,1,2,0,1,0,0,0,1,0,0,0,2,2020
+Seo Taiji and Boys,Bando Records,Male,1992,1996,Disband,0,0,3,3,3,0,0,4,0,4,1,0,0,0,0,0,0,0,0,0,1996
+Seven O'clock,Forest Network,Male,2017,2021,Disband,7,0,7,7,8,1,0,0,3,0,1,1,1,0,0,0,0,0,0,4,2020
+SEVENTEEN,Pledis Entertainment,Male,2015,,Active,11,0,13,13,13,0,5,3,8,4,0,1,0,0,2,0,3,2,0,5,2021
+SF9,FNC Entertainment,Male,2016,,Active,14,0,9,9,9,0,0,1,8,1,1,0,1,3,0,0,11,0,0,2,2020
+SG Wannabe,Stone Music Entertainment,Male,2004,,Active,2,0,3,2,4,2,0,7,2,4,0,4,0,1,0,0,3,0,0,18,2018
+SHINee,SM Entertainment,Male,2008,,Active,10,0,4,4,5,1,0,7,5,4,0,0,0,5,1,0,15,0,0,0,2018
+SHINHWA,SM Entertainment,Male,1998,,Active,6,0,6,6,6,0,0,13,0,9,0,5,1,1,0,0,1,0,0,0,2018
+SIGMA,PLUSWIN,Male,2020,,Active,4,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+SIGNAL�,Elmusix,Male,2018,,Active,4,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+SNUPER,WIDMAY Entertainment,Male,2015,,Active,10,1,6,6,6,0,0,0,5,1,1,1,1,0,0,0,7,0,0,2,2020
+Solid,RIAK,Male,1993,1997,Disband,5,0,3,3,3,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,1997
+SPECTRUM�,WYNN Entertainment,Male,2018,2020,Disband,6,0,6,6,7,1,0,0,2,0,2,1,0,0,0,0,0,0,0,0,2020
+SPEED,MBK Entertainment,Male,2013,2015,Disband,2,0,8,8,8,0,0,2,3,0,0,2,0,0,0,0,0,0,0,2,2015
+SS501,DSP Media,Male,2005,2010,Disband,0,0,5,5,5,0,1,1,2,2,3,6,0,2,0,0,3,0,0,8,2010
+Stray Kids,JYP Entertainment,Male,2018,,Active,11,1,8,8,9,1,1,1,6,1,0,6,0,2,1,0,1,2,0,4,2020
+Super Five,MBC Favorite Entertainment,Male,2020,,Active,0,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+SUPER JUNIOR,SM Entertainment,Male,2005,,Active,8,1,10,9,12,4,5,10,1,7,0,6,1,1,1,0,12,0,0,3,2021
+SUPERKIDS,Kids Planet,Male,2019,,Active,3,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+SuperM,SM Entertainment,Male,2019,,Active,9,1,7,7,7,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,2021
+SURPRISE U,Fantagio Music,Male,2017,,Active,2,0,4,4,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2017
+T-MAX,Planet905 Entertainment,Male,2007,2012,Disband,0,0,4,2,3,3,0,1,0,0,1,4,1,0,0,0,1,0,0,5,2011
+T.E.N,Narda Entertainment,Male,2018,2018,Disband,2,0,10,10,10,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2018
+T1419,MLD Entertainment,Male,2021,,Active,9,0,9,9,9,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2021
+TARGET,KJ Music Entertainment,Male,2014,,Active,8,1,7,7,7,0,0,0,1,0,3,1,0,0,0,0,2,1,0,0,2019
+TEEN TOP,TOP Media,Male,2010,,Active,9,3,5,5,6,1,0,2,9,0,0,0,0,0,0,0,3,5,0,2,2019
+THE BOYZ,Cre.ker Entertainment,Male,2017,,Active,11,0,11,11,12,1,0,1,5,0,2,0,3,1,1,0,0,0,0,2,2021
+The King,Stallion Entertainment,Male,2014,2019,Disband,5,0,5,5,5,0,0,0,1,0,0,4,0,0,1,0,0,0,0,1,2019
+The LEGEND,SS Entertainment,Male,2014,2016,Disband,3,0,5,5,5,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,2016
+THE MAN BLK,Stardium,Male,2018,,Active,4,2,7,7,10,3,0,0,2,0,0,0,0,0,0,0,0,0,0,3,2020
+The Rose,J&Star Company,Male,2017,,Active,6,3,4,4,4,0,0,0,2,0,1,3,0,0,0,0,0,0,0,2,2020
+The T-Bird,OD Entertainment,Male,2019,,Active,4,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+TheEastLight.,Media Line Entertainment,Male,2016,2018,Disband,4,0,6,6,6,0,0,0,2,0,0,4,3,0,0,0,0,0,0,0,2018
+TO.1,The Best Entertainment,Male,2018,2018,Disband,1,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+TO1,Stone Music Entertainment,Male,2020,,Active,8,0,10,10,10,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2021
+TraxX,SM Entertainment,Male,2004,,Active,2,0,2,2,4,3,0,1,3,0,2,2,0,0,0,0,5,0,0,6,2018
+TRCNG,TS Entertainment,Male,2017,,Active,4,0,8,8,8,10,2,0,1,0,2,1,0,0,0,0,2,1,0,0,2019
+TREASURE,YG Entertainment,Male,2020,,Active,8,0,12,12,12,0,0,1,0,0,3,0,0,1,0,0,0,2,0,0,2021
+TREI,Banana Culture,Male,2017,2020,Disband,5,0,3,3,3,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2019
+Trigger�,DY Entertainment,Male,2019,,Active,4,0,4,4,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2020
+TRITOPS,VL Entertainment,Male,2007,,Active,6,0,4,3,3,2,0,1,1,0,2,11,0,0,0,0,2,21,0,2,2017
+Trophy,Family Music Entertainment,Male,2015,2016,Disband,4,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+TROY,Brand New Music,Male,2014,2017,Disband,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+Trusty,Playmusic Ground,Male,2020,2020,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+TST,KJ Music Entertainment,Male,2017,,Active,7,2,4,4,7,3,0,0,2,0,4,0,0,0,0,0,0,0,0,0,2020
+Turbo(1),The Turbo Company,Male,1995,2000,Disband,0,0,3,3,3,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,2000
+Turbo(2),The Turbo Company,Male,2015,,Active,0,0,3,3,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2017
+TVXQ!,SM Entertainment,Male,2003,,Active,6,0,2,2,5,3,0,8,0,3,3,1,0,10,0,8,50,0,0,8,2020
+TXT,BigHit Music,Male,2019,,Active,13,0,5,5,5,0,0,2,3,0,0,1,0,1,0,0,2,1,0,1,2021
+U-KISS,NH Media,Male,2008,,Active,4,0,3,1,5,9,2,3,11,11,0,10,0,8,1,0,16,4,0,3,2020
+UNB,PocketDol Studio,Male,2018,2019,Disband,8,0,9,9,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2018
+Underdog,Independent,Male,2013,2017,Disband,2,0,6,1,6,16,0,0,0,0,5,0,0,0,0,0,0,0,0,0,2015
+UNIQ,Yue Hua Entertainment,Male,2014,,Active,6,1,5,5,5,0,0,0,1,0,0,2,0,0,1,0,0,7,0,3,2016
+UNVS,CHITWN Music,Male,2016,,Active,7,2,5,3,5,6,0,0,0,0,1,3,0,0,0,0,0,3,0,0,2020
+UP10TION,TOP Media,Male,2015,,Active,8,3,10,10,10,0,0,1,9,2,0,0,0,0,0,0,3,0,0,1,2020
+V.O.S,J-Soul Company,Male,2004,,Active,1,0,3,3,3,1,0,3,3,2,0,12,1,0,0,0,0,0,0,9,2020
+VANNER,VT Entertainment,Male,2019,,Active,7,0,5,5,5,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2020
+VARSITY,Jungle Entertainment,Male,2017,2020,Disband,7,0,5,5,12,7,1,0,1,0,2,2,0,0,0,0,0,0,0,0,2020
+VAV,A team,Male,2015,,Active,7,1,7,4,7,6,0,0,6,0,0,5,4,0,0,0,0,0,0,0,2021
+VERIVERY,Jellyfish Entertainment,Male,2019,,Active,5,1,7,7,7,0,0,0,5,0,2,0,1,0,0,0,0,0,0,3,2021
+VERMUDA,Pacemaker Entertainment,Male,2017,2019,Disband,3,0,5,4,5,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2018
+VICTON,Play M Entertainment,Male,2016,,Active,7,0,7,7,7,0,0,1,6,0,2,0,0,0,0,0,0,0,0,1,2021
+VIXX,Jellyfish Entertainment,Male,2012,,Active,6,2,5,5,6,1,1,3,4,1,6,3,1,2,1,0,4,2,0,1,2019
+VOISPER,Evermore Music,Male,2016,,Active,5,0,4,4,4,0,0,1,1,0,0,9,0,0,0,0,0,0,0,2,2020
+VROMANCE,RBW,Male,2016,,Active,6,3,4,4,4,0,0,0,2,0,0,10,0,0,0,0,0,0,0,6,2020
+VX,JJ Entertainment,Male,2015,2017,Disband,6,0,5,5,5,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2017
+W.A.O,KINGTOP Entertainment,Male,2021,,Active,5,0,7,7,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+W.I.T,Team Wit,Male,2021,,Active,4,0,5,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+W24,JARMY Entertainment,Male,2018,,Active,4,0,4,4,5,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,2020
+Wanna One,Swing Entertainment,Male,2017,2019,Disband,8,0,11,11,11,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,2018
+WayV,Colabs,Male,2019,,Active,7,0,7,7,7,0,0,0,0,0,0,1,0,1,3,2,0,2,0,0,2021
+WE IN THE ZONE,Choon Entertainment,Male,2018,,Active,7,0,3,2,3,3,0,0,2,0,0,3,0,0,0,0,0,0,0,0,2020
+WEi,OUI Entertainment,Male,2020,,Active,8,0,6,6,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2021
+Welldone Potato,Banana Culture,Male,2014,2016,Disband,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2015
+WINNER,YG Entertainment,Male,2014,,Active,10,0,4,4,5,1,0,3,3,1,3,2,0,5,4,7,1,2,1,0,2020
+withus,withHC,Male,2020,,Active,3,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+WOW�,A.CONIC,Male,2021,,Active,1,0,7,7,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+X1,Swing Entertainment,Male,2019,2020,Disband,6,0,11,11,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2019
+XENEX,Company Gi Eok,Male,2020,,Active,4,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+XENO-T,Hunus Entertainment,Male,2013,,Active,2,0,5,5,13,8,2,1,4,0,1,0,0,0,0,0,1,0,0,3,2018
+Xst,Midas Entertainment,Male,2015,,Active,2,2,6,5,6,2,0,0,0,1,2,3,0,0,0,0,1,0,0,0,2019
+Y&W,INAKIST Entertainment,Male,2020,,Active,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+YDPP,Starship Entertainment,Male,2018,2019,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+ZE:A,Star Empire Entertainment,Male,2010,,Active,6,0,9,9,9,0,3,2,2,0,4,1,0,1,2,0,4,0,0,1,2015
+ZEST,Zenith Media Contents,Male,2014,2016,Disband,4,0,5,3,6,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+ZPZG,J-Star Entertainment,Male,2014,2016,Disband,2,0,1,1,4,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015

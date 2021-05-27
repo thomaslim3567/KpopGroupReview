@@ -1,0 +1,706 @@
+group_name,company,group_type,debute_year,disband_year,current_status,social_accounts,inactive_members,current_members,original_members_remainding,initial_members,member_changes,subunits,albums,mini_albums,other_albums,singles,digital_singles,other_singles,foreign_albums,foreign_mini_albums,foreign_other_album,foreign_singles,foreign_digital_singles,foreign_other_singles,others,last_production_year
+(G)I-DLE,cube_entertainment,Female,2018,0,Active,10,1,5,5,6,0,0,0,4,0,1,4,0,0,2,0,2,2,0,5,2021
+10X10,gaon_entertainment,Female,2015,2016,Disband,2,0,6,6,6,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2016
+1NB ,trivus_entertainment,Female,2017,2018,Disband,4,0,5,5,5,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2018
+1PS,maroo_entertainment,Female,2014,2015,Disband,3,0,5,4,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2014
+2EYES,sidushq,Female,2013,2017,Disband,2,0,4,4,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2015
+2NE1,yg_entertainment,Female,2009,2017,Disband,5,0,3,3,4,1,0,2,2,2,0,12,0,2,1,0,2,2,0,1,2017
+3YE,gh_entertainment,Female,2019,0,Active,5,0,3,3,3,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,2021
+4CARAT,youngbridge_entertainment,Female,2019,0,Active,1,0,3,3,4,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+4G,heuk_ggo_entertainment,Female,2014,2015,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+4L,jade_contents_media,Female,2014,2015,Disband,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+4minute,cube_entertainment,Female,2009,2016,Disband,5,0,5,5,5,0,1,1,8,0,0,7,4,1,0,0,7,0,0,6,2016
+4SOME,sugar_entertainment,Female,2015,2016,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+4TEN,jungle_entertainment,Female,2014,2018,Disband,5,0,3,2,4,6,0,0,1,0,0,3,0,0,0,0,0,0,0,0,2016
+4Tomorrow,colabs,Female,2009,2009,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2009
+7Princess,yesplease_entertainment,Female,2003,2009,Disband,0,0,7,1,7,14,0,2,0,2,1,0,0,0,0,0,0,0,0,1,2009
+84LY,colabs,Female,2012,2013,Disband,0,0,6,6,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2012
+9MUSES,star_empire_entertainment,Female,2010,2019,Disband,6,0,4,1,10,13,1,1,5,1,2,4,0,0,0,0,0,0,0,2,2019
+A Train to Autumn,cube_entertainment,Female,2018,2020,Disband,3,0,4,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,2,2019
+A-Daily,dk_entertainment,Female,2014,0,Active,4,0,2,2,6,7,0,0,1,0,0,3,0,0,0,0,0,0,0,1,2017
+A-DEAN,dia9_entertainment,Female,2013,2019,Disband,4,0,4,2,4,10,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2018
+A-Fati,coolwave_entertainment,Female,2014,2016,Disband,2,0,4,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,2,2015
+A-Feel,sa_entertainment,Female,2019,0,Active,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+A-Plus,owl_entertainment,Female,2015,2016,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+A-seed,yechan_media,Female,2017,2018,Disband,4,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2018
+A.De,2able_company,Female,2016,2017,Disband,4,0,6,6,7,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2017
+A.H.H.A,yellocean,Female,2015,2016,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+A.I.N,starcommerce_entertainment,Female,2014,2014,Disband,0,0,7,7,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+A.KOR,doo_republic,Female,2014,2017,Disband,3,0,5,3,3,2,1,0,0,0,0,3,0,0,0,0,0,0,0,0,2015
+A.sia,starmade_entertainment,Female,2006,2007,Disband,0,0,4,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2006
+A.SOME,the_solution,Female,2016,2017,Disband,1,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2016
+ABRY,withhc,Female,2017,0,Active,7,0,2,2,4,2,0,0,1,0,0,4,1,0,0,0,0,0,0,4,2019
+ACE,worthy_entertainment,Female,2015,2016,Disband,2,0,4,3,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+aespa,sm_entertainment,Female,2020,0,Active,7,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2021
+After School,pledis_entertainment,Female,2009,2020,Disband,5,0,1,1,5,10,3,1,0,0,6,2,3,2,0,1,6,0,0,5,2015
+Aila,plane_entertainment,Female,2014,2014,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+AiRiSU,gaon_entertainment,Female,2018,2019,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+AL,mascom_company,Female,2001,2002,Disband,0,0,4,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2001
+Alice White,smaf_entertainment,Female,2014,2015,Disband,3,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+ALiKE,87sound,Female,2018,2019,Disband,5,0,3,3,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+AMOR,juny_network_entertainment,Female,2017,2018,Disband,2,0,5,5,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+ANDS,colabs,Female,2014,2016,Disband,0,0,3,3,5,2,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2015
+ANS,ans_entertainment,Female,2019,2020,Disband,7,0,8,6,6,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+AOA,fnc_entertainment,Female,2012,0,Active,8,0,3,3,8,5,2,1,6,0,5,0,0,2,0,0,5,2,0,2,2019
+API,girl_group_api,Female,2019,0,Active,3,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+Apink,play_m_entertainment,Female,2011,0,Active,10,0,6,6,7,1,3,3,9,1,0,9,1,3,0,0,9,0,0,3,2021
+Apple.B,gh_entertainment,Female,2017,2018,Disband,4,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+APRIL,dsp_media,Female,2015,0,Active,9,0,6,4,6,4,0,0,7,0,2,0,2,0,0,0,2,0,0,7,2020
+April Kiss,olleh_music,Female,2011,2011,Disband,1,0,6,6,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2011
+AQUA,krazy_entertainment,Female,2018,2019,Disband,1,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+AREAL,jz_factory_entertainment,Female,2020,2021,Disband,5,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+ARIAZ,rising_star_entertainment,Female,2019,0,Active,4,0,6,6,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2019
+As One,chorokbaemjuna_e&m,Female,2012,2016,Disband,3,0,6,6,6,0,0,0,0,0,0,2,0,0,1,0,0,7,0,0,2016
+ASHA,cm_entertainment,Female,2015,2016,Disband,4,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+Asome.D,dy_entertainment,Female,2020,0,Active,6,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2020
+Awe5ome Baby,tn_entertainment,Female,2015,2016,Disband,5,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+AWESOME,midum_entertainment,Female,2017,2018,Disband,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+AZM,innok_entertainment,Female,2018,2019,Disband,3,0,4,3,4,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+B Girls,afreecatv,Female,2018,0,Active,0,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+BaBa,pr_entertainment,Female,2015,2020,Disband,5,0,7,1,6,20,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2018
+Baby Boo,hyunda_company,Female,2015,2020,Disband,2,0,3,1,4,11,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2019
+Baby V.O.X,dr_music,Female,1997,2006,Disband,0,0,1,2,6,7,0,7,0,1,0,0,0,0,0,1,0,0,0,0,2004
+BADKIZ,us_entertainment,Female,2014,2020,Disband,0,0,4,0,5,22,0,0,0,0,0,8,1,0,0,0,0,0,0,0,2019
+Bambino,js_entertainment,Female,2015,2017,Disband,1,0,4,3,4,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2016
+Bay.B,can_entertainment,Female,2014,2016,Disband,4,0,3,3,3,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,2015
+BBURECTOR,bbu_entertainment,Female,2018,2018,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+BeBe Mignon,happyface_entertainment,Female,2010,2011,Disband,0,0,3,3,3,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,2011
+BEBE6,k12_company,Female,2017,2020,Disband,4,0,3,3,5,4,0,0,1,0,0,3,0,0,0,0,0,0,0,1,2019
+Bebop,hmi_entertainment,Female,2013,2016,Disband,3,0,3,3,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,2014
+Berry Chu,gyeolhwa_entertainment,Female,2017,0,Active,0,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+Berry Good,jtg_entertainment,Female,2014,0,Active,6,1,2,0,5,9,1,1,4,0,0,6,0,0,0,0,0,0,0,5,2021
+BESTie,ynb_entertainment,Female,2013,2018,Disband,4,0,2,2,4,2,0,0,2,0,0,5,0,0,0,0,0,0,0,0,2015
+Black Bunny,laentertainment,Female,2019,2020,Disband,4,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Black Swan(2016),gm_entertainment,Female,2016,2016,Disband,1,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,2016
+BLACKPINK,yg_entertainment,Female,2016,0,Active,9,0,4,4,4,0,0,1,2,1,1,3,0,2,1,2,1,0,0,6,2020
+BLACKSWAN(2020),dr_music,Female,2020,0,Active,4,0,4,4,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2020
+Blady,colabs,Female,2011,2017,Disband,3,0,5,0,5,13,1,0,1,0,0,4,0,0,0,0,0,0,0,0,2015
+Blah Blah,fab_entertainment,Female,2017,2019,Disband,4,0,2,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+Blastar,vh_entertainment,Female,2020,2020,Disband,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Bling,ps_creative,Female,2015,2018,Disband,3,0,4,3,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Bling Bling,major9,Female,2020,0,Active,6,0,6,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2021
+Bloomy,ds_entertainment,Female,2016,2017,Disband,6,0,4,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2016
+Blue Fox,blue_fox_entertainment,Female,2018,0,Active,3,0,5,1,4,12,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+BlueMint,starcore,Female,2019,0,Active,1,0,6,5,5,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+Bob Girls,chrome_entertainment,Female,2014,2015,Disband,4,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2014
+BONUSbaby,maroo_entertainment,Female,2017,2020,Disband,6,0,5,5,6,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+BOTOPASS,colabs,Female,2020,0,Active,6,0,8,8,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
+BP POP,bp_story_entertainment,Female,2013,2015,Disband,3,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2013
+Brand New Day,wannabe_management,Female,2009,2009,Disband,0,0,3,3,3,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,2009
+Brave Girls,brave_entertainment,Female,2011,0,Active,7,0,4,0,4,10,0,0,4,0,1,6,0,0,0,0,0,0,0,1,2020
+Brown Eyed Girls,apop_entertainment,Female,2006,0,Active,5,0,4,4,4,0,1,6,3,2,0,8,0,0,0,0,0,0,0,10,2020
+BULLDOK,innok_entertainment,Female,2016,2018,Disband,0,0,2,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Busters,colabs,Female,2017,0,Active,4,0,4,0,5,10,0,0,1,0,3,1,0,0,0,0,0,0,0,0,2020
+BVNDIT,mnh_entertainment,Female,2019,0,Active,7,0,5,5,5,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,2020
+Byulzzi,the_new_entertainment,Female,2020,0,Active,4,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+C.I.V.A,lee&tak_entertainment,Female,2016,2016,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+CAMILA,c.c_entertainment,Female,2018,2019,Disband,2,0,3,3,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+Carcaro Girl,reverse_social,Female,2011,2011,Disband,1,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2011
+Celeb Five,contents_lab_vivo,Female,2018,0,Active,1,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+Cherry Bullet,fnc_w,Female,2019,0,Active,12,0,7,7,10,3,0,0,1,0,2,2,0,0,0,0,0,0,0,0,2021
+CHERRY ON TOP,united_creative,Female,2018,2019,Disband,5,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+CHI CHI,trophy_entertainment,Female,2011,2013,Disband,0,0,5,5,7,3,0,0,0,0,0,3,0,0,0,0,1,0,0,0,2012
+Chic Angel,liz_entertainment,Female,2015,0,Active,6,0,4,4,6,2,0,0,0,0,0,3,1,0,0,0,0,0,0,4,2020
+CHIC&IDLE,liz_entertainment,Female,2020,0,Active,2,0,9,9,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Chloris,fab_entertainment,Female,2017,2020,Disband,7,0,4,2,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+ChoColat,paramount_music,Female,2011,2014,Disband,1,0,6,6,6,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,2013
+cignature,j9_entertainment,Female,2020,0,Active,7,0,5,5,7,2,0,0,0,1,0,2,0,0,0,0,0,0,0,1,2020
+CLC,cube_entertainment,Female,2015,0,Active,7,0,6,6,6,1,0,0,8,0,1,4,0,0,2,0,0,0,0,4,2021
+CLEO,emi_(korea),Female,1999,2005,Disband,0,0,3,1,3,4,0,5,0,0,0,1,0,0,0,0,0,0,0,0,2005
+CoCo,fancy_factory,Female,2019,0,Active,6,0,6,3,7,11,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+Cooki,dream_scape_entertainment,Female,1998,2001,Disband,0,0,4,4,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2000
+Cookie,hr_entertainment,Female,2021,0,Active,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+CRAXY,sai_entertainment,Female,2020,0,Active,6,0,5,5,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,2020
+Crayon Pop,chrome_entertainment,Female,2012,2016,Disband,8,0,4,4,5,1,1,1,3,0,3,2,0,1,1,1,2,0,0,6,2016
+CST,dreamcense,Female,2018,2018,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+Cupid,narda_entertainment,Female,2015,2019,Disband,0,0,2,1,4,8,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2018
+CutieL,colabs,Female,2010,2018,Disband,2,0,5,0,7,25,0,1,1,0,0,5,0,0,0,0,0,0,0,0,2016
+D.el,colabs,Female,2016,2017,Disband,0,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+D.Holic,star_road_entertainment,Female,2014,2017,Disband,5,0,6,2,5,7,0,0,1,0,1,2,0,0,0,0,0,0,0,0,2016
+Dalshabet,happyface_entertainment,Female,2011,2019,Disband,4,0,6,5,6,2,0,1,10,0,0,0,0,0,0,0,1,0,0,1,2016
+DayDream(2016),colabs,Female,2016,2016,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Daydream(2019),great_company,Female,2019,2020,Disband,3,0,6,4,4,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Delight(2013),bros_media_entertainment,Female,2013,2015,Disband,3,0,5,3,4,4,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2014
+DESTINY,fate_entertainment,Female,2018,0,Active,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+DIA,colabs,Female,2015,0,Active,5,1,7,4,7,5,2,2,6,0,0,1,0,0,0,0,0,0,0,1,2020
+DICE,bros_entertainment,Female,2016,2017,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Diva,colabs,Female,1997,2005,Disband,0,0,3,3,4,1,0,8,0,0,0,0,0,1,0,0,0,0,0,2,2005
+Dorothy,leek.mill,Female,2016,2017,Disband,3,0,6,5,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Dream Candy,colabs,Female,2020,0,Active,2,0,7,3,7,8,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+Dreamcatcher,dreamcatcher_company,Female,2017,0,Active,8,0,7,7,7,0,0,1,6,1,2,0,2,1,0,0,4,3,0,1,2021
+DreamNote,ime_korea,Female,2018,0,Active,5,0,6,6,8,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2020
+Elado,ao_entertainment,Female,2017,2017,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+ELRIS,hunus_entertainment,Female,2017,0,Active,6,0,7,6,6,1,0,0,4,0,0,1,0,0,0,0,0,0,0,1,2020
+Enue,samsung_music,Female,1997,1999,Disband,0,0,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1997
+Episode,pops_entertainment,Female,2015,0,Active,7,0,5,1,4,11,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2020
+EVERGLOW,yue_hua_entertainment,Female,2019,0,Active,6,0,6,6,6,0,0,0,2,0,3,0,0,0,0,0,0,0,0,1,2021
+EvoL,stardom_entertainment,Female,2012,2015,Disband,2,0,5,5,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2013
+EXID,tokuma_japan_communications,Female,2012,0,Active,10,0,5,3,5,6,0,1,5,0,2,9,0,2,0,0,2,3,0,2,2020
+f(x),sm_entertainment,Female,2009,2019,Disband,5,0,5,5,5,0,0,4,2,0,1,3,1,0,0,0,2,1,0,7,2016
+F-ve Dolls,colabs,Female,2011,2015,Disband,1,0,6,3,5,5,0,0,2,1,0,2,0,0,0,0,0,0,0,1,2013
+FANATICS,fent,Female,2019,0,Active,4,0,6,6,6,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,2021
+Fantastie,in_entertainment,Female,2016,2017,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Fanxy Red,tov_entertainment,Female,2017,0,Active,2,1,4,4,7,3,0,0,0,0,1,0,0,0,0,1,2,0,0,0,2020
+fromis_9,off_the_record_entertainment,Female,2017,0,Active,8,0,9,9,9,0,0,0,3,0,2,1,1,0,0,0,0,0,0,0,2021
+FAVORITE,astory_entertainment,Female,2017,0,Active,6,0,6,6,6,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,2020
+FIESTAR,fave_entertainment,Female,2012,2018,Disband,0,0,5,5,6,1,0,0,2,0,3,4,1,0,0,0,0,0,0,4,2018
+FIONA,supreme_entertainment,Female,2015,2016,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+FLASHE,play_music_entertainment,Female,2012,2020,Disband,6,0,4,1,5,13,0,0,1,0,0,7,4,0,0,0,0,0,0,0,2018
+flor_us,yeom_entertainment,Female,2018,0,Active,3,0,3,3,4,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2020
+Floria,dk_entertainment,Female,2020,0,Active,4,0,4,4,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2020
+Flying Girls,doll_communications,Female,2009,2009,Disband,0,0,3,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2009
+FlyWithMe,fa_entertainment,Female,2018,0,Active,0,0,5,3,3,2,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2020
+G-(i)Kon,d-day_entertainment,Female,2019,2020,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+G-reyish,big_ocean_enm,Female,2017,0,Active,6,0,4,3,4,1,0,0,1,0,0,6,0,0,0,0,0,0,0,0,2021
+Gangkiz,core_contents_media,Female,2012,2014,Disband,2,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2012
+Gavy NJ,good_fellas_entertainment,Female,2005,0,Active,3,0,3,0,3,7,0,7,3,0,0,23,0,0,0,0,0,0,0,17,2020
+GBB,probeat_company,Female,2018,2020,Disband,3,0,5,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2018
+GeeGu,gf_entertainment,Female,2017,2021,Disband,5,0,6,6,9,3,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2019
+GFRIEND,source_music,Female,2015,0,Active,11,0,6,6,6,0,0,3,10,0,0,0,0,1,0,0,3,2,0,2,2020
+GI,simtong_entertainment,Female,2013,2016,Disband,3,0,5,2,5,6,0,0,1,0,0,4,0,0,0,0,0,0,0,0,2015
+GIRL CRUSH,dam_entertainment,Female,2019,0,Active,3,0,4,4,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Girl's Day,dreamt_entertainment,Female,2010,2017,Disband,8,0,4,2,5,5,0,2,6,1,9,0,1,0,0,0,1,0,0,0,2017
+Girl2School,dni_works,Female,2010,2015,Disband,3,0,3,0,10,20,0,0,0,0,0,3,0,0,0,0,0,0,0,1,2014
+GIRLKIND,nextlevel_entertainment,Female,2018,0,Active,4,1,5,0,5,0,1,0,0,0,0,4,1,0,0,0,0,0,0,0,2020
+GIRLS GIRLS,h_brothers_entertainment,Female,2015,2019,Disband,4,0,2,2,5,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2016
+Girls' Generation,sm_entertainment,Female,2007,0,Active,8,0,8,8,9,1,2,6,4,4,2,5,5,3,0,0,9,3,0,7,2017
+Girls2000,colabs,Female,2020,0,Active,5,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2021
+GLAM,colabs,Female,2012,2015,Disband,3,0,4,4,5,1,0,0,0,0,2,2,0,0,0,0,0,0,0,3,2014
+GLOSS,futures,Female,2019,0,Active,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+GOOD DAY,c9_entertainment,Female,2017,2019,Disband,4,0,10,10,10,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2017
+GP Basic,jacyhan_international,Female,2010,2015,Disband,0,0,7,7,7,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2014
+GROW.B,midum_entertainment,Female,2019,2019,Disband,1,0,6,6,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2019
+GsA,roots_entertainment,Female,2017,0,Active,5,0,3,3,6,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+Gugudan,jellyfish_entertainment,Female,2016,2020,Disband,5,0,8,8,9,1,2,0,3,0,2,0,0,0,0,0,0,0,0,4,2018
+GWSN,miles,Female,2018,0,Active,8,0,7,7,7,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,2020
+H.U.B,new_planet_entertainment,Female,2017,2019,Disband,6,0,5,1,4,7,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2018
+H2L,regolith_entertainment,Female,2015,2017,Disband,1,0,3,3,5,2,0,0,0,0,0,3,0,0,0,0,0,0,0,1,2017
+HADY,kings_entertainment,Female,2015,2017,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2015
+HAM,lee_yeon_entertainment,Female,2009,2011,Disband,2,0,3,3,4,1,0,0,0,0,0,4,2,0,0,0,0,0,0,0,2011
+Hashtag,luk_factory,Female,2017,0,Active,5,0,7,7,7,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2019
+Heart,kcent_entertainment,Female,2016,2017,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+HELLOVENUS,fantagio_music,Female,2012,2019,Disband,3,0,6,4,6,4,0,0,5,1,1,4,0,0,0,0,0,0,0,3,2018
+HEXE,serenity_music,Female,2015,2016,Disband,1,0,5,5,5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2016
+HeyGirls,moai_entertainment,Female,2012,0,Active,5,1,6,0,6,21,0,0,0,0,0,7,1,0,0,0,0,0,0,0,2021
+HeyMiss,cg_entertainment,Female,2016,0,Active,2,0,3,3,8,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+HI CUTIE,space_music_entertainment,Female,2017,0,Active,5,0,4,3,5,3,0,0,0,0,0,9,0,0,0,0,0,0,0,1,2021
+Hi.D,heroes_factory,Female,2016,2016,Disband,4,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Hibana,to_hermitage,Female,2020,0,Active,3,0,3,3,4,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2020
+HighSchool,richworld_entertainment,Female,2017,0,Active,6,0,3,1,4,5,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2020
+HIGHTEEN,illusion_entertainment,Female,2016,0,Active,5,0,4,4,4,0,0,0,2,0,0,2,0,0,0,0,0,0,0,1,2018
+HINAPIA,osr_entertainment,Female,2019,2020,Disband,6,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+HINT,starpro_entertainment,Female,2017,0,Active,5,0,5,5,8,3,0,0,1,0,0,2,1,0,0,0,0,0,0,0,2020
+HOLICS,lpa_entertainment,Female,2016,0,Active,5,0,5,3,5,7,0,0,0,0,3,1,0,0,0,0,0,0,0,0,2019
+Holy Days,line_&_jeen_entertainment,Female,2016,2018,Disband,0,0,3,3,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2017
+Honey Girls,liz_entertainment,Female,2015,2016,Disband,0,0,3,3,5,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+Honey Popcorn,kyun_create,Female,2018,0,Active,3,0,5,2,3,4,0,0,2,0,0,0,0,0,0,0,0,1,0,0,2019
+HOT ISSUE,s2_entertainment,Female,2021,0,Active,8,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+HOT TEEN,tiptop_entertainment,Female,2019,2019,Disband,2,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+HOTTIES,solerino,Female,2015,2017,Disband,5,0,4,4,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2015
+i-13,lime_music,Female,2005,2007,Disband,0,0,13,13,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2005
+I-Ren,j_company_entertainment,Female,2016,2017,Disband,1,0,3,3,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+I.B.I,loen_entertainment,Female,2016,2017,Disband,0,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+I.C.E,hs_entertainment,Female,2015,0,Active,4,0,3,3,4,2,0,0,1,0,0,3,0,0,0,0,0,0,0,0,2020
+I.O.I,ymc_entertainment,Female,2016,2017,Disband,5,0,11,11,11,0,0,0,2,0,1,3,0,0,0,0,0,0,0,1,2017
+Icia,colabs,Female,2015,2019,Disband,3,0,11,11,11,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2018
+ICU,liz_entertainment,Female,2019,0,Active,5,0,5,5,5,0,0,0,0,0,0,2,2,0,0,0,0,1,0,2,2021
+ILUV,wks_ene,Female,2019,2020,Disband,6,0,7,7,7,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2020
+ITZY,jyp_entertainment,Female,2009,0,Active,8,0,5,5,5,0,0,0,4,0,0,2,0,0,0,0,0,1,0,0,2021
+IZ*ONE,off_the_record_entertainment,Female,2018,2021,Disband,11,0,12,12,12,0,0,1,4,0,0,1,1,1,0,0,3,0,0,2,2021
+Jewelry,star_empire_entertainment,Female,2001,2015,Disband,3,0,3,0,4,10,0,6,1,0,0,6,1,2,0,0,5,0,0,2,2013
+Jjarimongttang,cs_entertainment,Female,2013,2016,Disband,2,0,3,2,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+Juliet,wonder_music,Female,1997,2000,Disband,0,0,2,1,3,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2000
+K-Girls,beauty_hankook_corporation,Female,2013,2015,Disband,4,0,5,2,6,7,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2015
+KAACHI,frontrow_records,Female,2020,0,Active,5,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+KARA,dsp_media,Female,2007,2016,Disband,1,0,4,2,4,5,0,4,7,0,0,4,0,5,1,0,12,0,0,4,2015
+Kassia,i-star_entertainment,Female,2011,2011,Disband,0,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2011
+Kirots,302skool_company,Female,2006,2007,Disband,0,0,9,6,8,5,0,0,0,0,0,7,2,0,0,0,0,0,0,2,2007
+Kiss&Cry,winning_insight_m,Female,2014,2014,Disband,2,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2014
+Kitten Girls,stone_entertainment,Female,2017,2019,Disband,3,0,3,2,3,3,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2018
+La TTE,starcubic_entertainment,Female,2012,2012,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2012
+LABELUP,yedam_entertainment,Female,2019,2021,Disband,5,0,5,2,5,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+LABOUM,laboum,Female,2014,0,Active,10,0,5,5,6,1,0,1,2,0,6,4,0,1,0,0,1,1,0,1,2020
+LADIES' CODE,polaris_entertainment,Female,2013,0,Active,6,0,3,3,5,2,0,0,4,0,2,4,2,0,0,0,0,0,0,1,2019
+LAY.T,baeksang_entertainment,Female,2012,2013,Disband,2,0,3,3,5,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2012
+LAYSHA,a1_entertainment,Female,2015,0,Active,4,0,4,2,4,8,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2019
+Leader'S,tgn_entertainment,Female,2011,2015,Disband,1,0,5,5,8,24,3,0,0,0,0,5,0,0,0,0,0,0,0,0,2015
+Like Me,space_music_entertainment,Female,2020,0,Active,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Limesoda,d-maker_entertainment,Female,2017,2020,Disband,6,0,3,2,2,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+LIPBUBBLE,zenith_media_contents,Female,2017,2019,Disband,5,0,7,4,7,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+Little Cheer Girl,rainbow_company,Female,2015,0,Active,3,0,5,0,5,20,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2020
+Littles,nega_network,Female,2012,2014,Disband,1,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2012
+LIVE HIGH,crayon_star_entertainment,Female,2013,0,Active,8,0,3,1,4,6,0,0,0,0,0,5,0,0,0,1,0,0,0,0,2019
+LOO??,blockberrycreative,Female,2016,0,Active,9,0,12,12,12,0,3,0,3,1,12,3,0,0,0,0,0,0,0,0,2020
+Lovelyz,woollim_entertainment,Female,2014,0,Active,6,0,8,8,8,0,0,2,7,1,1,2,1,0,0,0,0,0,0,4,2020
+LoveUs,creative_su_entertainment,Female,2015,2016,Disband,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+LPG,aquaargo_entertainment,Female,2005,2016,Disband,0,0,3,0,4,19,0,3,1,1,0,5,0,0,0,0,0,0,0,0,2015
+Luluz,wanna.b,Female,2014,2015,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+LUNARSOLAR,j_planet_entertainment,Female,2020,0,Active,5,0,4,4,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2021
+Lusty,babaplay,Female,2019,0,Active,3,0,5,5,5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2020
+M.I.L.K,bm_entertainment,Female,2001,2003,Disband,0,0,4,4,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2001
+MAJORS,ans_entertainment,Female,2021,0,Active,6,0,6,6,6,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+Maka Maka,bluemoon_entertainment,Female,2020,0,Active,6,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+MAMAMOO,rbw,Female,2014,0,Active,7,0,4,4,4,0,0,2,10,0,0,6,5,2,1,0,4,0,0,14,2021
+MARMELLO,rolling_culture_one,Female,2017,2019,Disband,3,0,5,5,5,0,0,0,1,0,0,2,1,0,0,0,0,0,0,1,2018
+MATILDA,box_media,Female,2016,2019,Disband,5,0,4,4,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,2018
+Maywish,j9_entertainment,Female,2018,2019,Disband,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+Melody Day,cre.ker_entertainment,Female,2012,2018,Disband,4,0,4,4,4,0,0,0,2,0,3,4,3,0,0,0,0,0,0,15,2018
+Melody Pink,colabs,Female,2017,2020,Disband,1,0,3,0,4,15,0,0,0,0,0,6,0,0,0,0,0,0,0,1,2019
+Mercury,gaon_entertainment,Female,2016,2017,Disband,0,0,3,3,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2016
+MIDNIGHT,h&i_entertainment,Female,2018,2020,Disband,2,0,5,2,3,13,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+Milkyway,juju_sisters,Female,2019,0,Active,2,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Mini Little Cheer Girl,rainbow_company,Female,2019,0,Active,3,0,5,2,6,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+MINX,happyface_entertainment,Female,2014,2016,Disband,5,0,5,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2015
+miss A,jyp_entertainment,Female,2010,2017,Disband,5,0,3,3,4,1,0,2,3,0,2,2,0,0,0,0,0,0,0,1,2015
+MIXX,chiko_bros_entertainment,Female,2016,2017,Disband,4,0,5,3,4,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+MOA,professional_entertainment,Female,2014,2015,Disband,1,0,5,5,5,6,0,0,0,0,0,2,0,0,0,0,0,0,0,1,2014
+MOMOLAND,mld_entertainment,Female,2016,0,Active,7,0,6,6,7,3,0,0,5,1,3,1,0,1,0,0,3,0,0,5,2021
+My Darling,al_entertainment,Female,2018,0,Active,6,0,3,1,3,7,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+MyB,maroo_entertainment,Female,2015,2016,Disband,4,0,6,6,6,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+N*White,j&j_entertainment,Female,2013,2016,Disband,3,0,3,3,4,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2015
+NATURE,n.ch_entertainment,Female,2018,0,Active,9,0,9,8,9,2,0,0,2,0,3,0,0,0,0,0,1,0,0,2,2020
+Nazca,gaonix_music,Female,2001,2004,Disband,0,0,6,6,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2001
+NeonPunch,a100_entertainment,Female,2017,2020,Disband,5,0,3,2,3,4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2019
+Nep,naeum_entertainment,Female,2012,2012,Disband,0,0,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2012
+New-A,new_code,Female,2016,2017,Disband,5,0,4,4,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+New.F.O,colabs,Female,2011,2012,Disband,0,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2011
+O My Jewel,acoustic_company,Female,2017,2018,Disband,4,0,3,3,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2017
+O-24,eunsung_entertainment,Female,1998,2002,Disband,0,0,3,3,4,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2000
+O21,houxiu_tv,Female,2016,2017,Disband,2,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+OAHSIS,krazy_entertainment,Female,2016,2019,Disband,4,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+OH MY GIRL,wm_entertainment,Female,2015,0,Active,10,0,7,7,8,1,1,1,8,1,0,1,0,3,0,0,1,6,0,11,2021
+Oh!Bliss,jt_corea_entertainment,Female,2016,2017,Disband,5,0,5,5,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2016
+ONE,onecompany2020,Female,2020,0,Active,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+P.O.P,dwm_entertainment,Female,2017,2018,Disband,4,0,5,5,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2017
+Pandora,t.s_family_entertainment,Female,2012,2013,Disband,0,0,4,4,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2012
+PAPAYA,colabs,Female,2000,2001,Disband,0,0,3,3,5,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2001
+PEACE,krazy_entertainment,Female,2018,2019,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Peach Girl,jm_star_entertainment,Female,2013,2014,Disband,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+PIERCE,clevr_e&m,Female,2018,0,Active,1,0,5,3,5,6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2021
+Piggy Dolls,winning_insight,Female,2011,2013,Disband,0,0,6,3,3,3,0,1,1,0,0,3,0,0,0,0,0,0,0,0,2013
+PinkFantasy,mydoll_entertainment,Female,2018,0,Active,4,0,5,5,8,3,3,0,0,0,2,3,0,0,0,0,1,0,0,0,2021
+PIT A PAT,pit_a_pat_entertainment,Female,2017,2017,Disband,2,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+PIXY,colabs,Female,2020,0,Active,5,0,6,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2021
+Playback,colabs,Female,2015,2018,Disband,4,0,4,3,4,2,0,0,0,0,1,3,0,0,0,0,0,0,0,0,2017
+Pocket Girls,missdica_entertainment,Female,2015,0,Active,4,0,3,3,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+PPL,parksal_company,Female,2015,2018,Disband,3,0,6,6,6,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,2017
+PRECIOUS,umi_entertainment,Female,2020,0,Active,5,0,5,5,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2020
+PRISM,lch_entertainment,Female,2017,0,Active,4,0,4,2,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+PRISMA,unionwave_entertainment,Female,2020,2021,Disband,1,0,5,5,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
+PRISTIN,pledis_entertainment,Female,2017,2019,Disband,1,1,11,12,12,0,1,0,2,0,0,2,0,0,0,0,0,0,0,1,2017
+PRITTI-G,colabs,Female,2015,0,Active,3,0,6,3,5,8,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2017
+Pungdeng-E,doma_entertainment,Female,2013,0,Active,6,0,3,3,3,0,0,1,3,0,0,8,2,1,0,0,1,0,0,1,2019
+Purfles,crescendo_music,Female,2014,2016,Disband,4,0,3,3,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2015
+Purplay,purple_i_ent,Female,2013,2014,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+PURPLE,luk_factory,Female,2018,0,Active,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+PURPLE K!SS,rbw,Female,2018,0,Active,7,0,7,5,6,3,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2021
+PURPLEBECK,majesty_entertainment,Female,2019,0,Active,5,0,5,5,5,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,2020
+Q6IX,retro_entertainment,Female,2019,0,Active,1,0,5,2,2,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+QODES,ej_music_entertainment,Female,2021,0,Active,4,0,4,4,4,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2021
+Queen B'Z,js_entertainment,Female,2012,2017,Disband,2,0,5,5,5,0,0,0,0,0,0,3,1,0,0,0,0,0,0,3,2017
+Queendom,anj_entertainment,Female,2015,2017,Disband,6,0,3,1,3,7,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2017
+ANJ Entertainment,dsp_media,Female,2009,2016,Disband,5,0,7,7,7,0,2,1,4,0,0,2,0,1,0,0,3,0,0,5,2016
+Ramisu,ui_entertainment,Female,2017,2017,Disband,3,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+RaNia,colabs,Female,2011,2020,Disband,5,0,5,0,8,19,0,0,3,3,0,4,0,0,0,0,0,0,0,1,2017
+RE:KIDS ANGEL,retune_music,Female,2020,0,Active,4,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+RE:KIDS BLOOM,retune_music,Female,2020,0,Active,4,0,5,4,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+Real Girls Project,interactive_media_mix,Female,2016,2018,Disband,4,0,10,10,10,0,0,0,0,0,0,2,0,0,1,0,0,2,0,3,2017
+Red Mint,redmintwo,Female,2018,0,Active,1,0,2,2,4,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+Red Velvet,sm_entertainment,Female,2014,0,Active,9,0,5,5,5,0,1,2,9,2,0,8,0,10,2,0,0,3,0,4,2020
+REDSQUARE,iconic_mne,Female,2020,0,Active,4,0,5,5,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
+Refiners,unknown,Female,2019,0,Active,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Refund Sisters,mbc,Female,2020,2020,Disband,0,0,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020
+Rendezvous,parksal_company,Female,2018,2019,Disband,4,0,4,3,4,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Rocket Punch,woollim_entertainment,Female,2019,0,Active,9,0,6,6,6,0,0,0,3,0,1,0,0,0,0,0,0,0,0,1,2021
+Rose Finger,colabs,Female,2017,2020,Disband,1,0,4,2,2,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+S.E.S.,sm_entertainment,Female,1997,2002,Disband,1,0,3,3,3,0,0,5,0,3,0,0,0,2,0,0,9,0,0,0,2002
+S.E.S.,sm_entertainment,Female,2016,2017,Disband,1,0,3,3,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2017
+S.E.T,hoonstar_entertainment,Female,2017,2017,Disband,4,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+S.I.S,xx_entertainment,Female,2017,0,Active,7,1,4,4,6,2,0,0,0,0,4,0,0,0,0,0,0,0,0,1,2020
+S2,climix,Female,2017,2018,Disband,4,0,6,6,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2017
+S2U,one_shot_entertainment,Female,2017,2019,Disband,1,0,3,2,3,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+SATURDAY,sd_entertainment,Female,2018,0,Active,6,0,5,3,7,6,0,0,0,0,3,2,2,0,0,0,0,0,0,0,2021
+Scarlet,colabs,Female,2014,2015,Disband,2,0,4,4,6,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+Secret,ts_entertainment,Female,2009,2018,Disband,3,0,3,3,4,1,0,1,5,0,3,2,0,1,1,0,5,0,0,2,2014
+SECRET NUMBER,vine_entertainment,Female,2020,0,Active,4,0,5,5,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2020
+See U,donga_planning,Female,1999,2000,Disband,0,0,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1999
+SHA SHA,major_entertainment,Female,2017,2019,Disband,0,0,6,3,6,6,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2018
+S#aFLA,vine_entertainment,Female,2018,2019,Disband,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+She'Z,line_entertainment,Female,2012,2014,Disband,3,0,4,4,4,0,0,0,1,0,1,5,0,0,0,0,0,0,0,1,2014
+SHINVI,cid.k_entertainment,Female,2002,2003,Disband,0,0,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2002
+SIOSIJAK,good_dream_entertainment,Female,2018,2020,Disband,4,0,4,2,5,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+SISTAR,starship_entertainment,Female,2010,2017,Disband,7,0,4,4,4,0,1,2,4,2,3,4,0,0,0,0,0,0,0,3,2017
+Six Bomb,world_event_agency,Female,2012,2012,Disband,3,0,5,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2012
+Six Bomb,world_event_agency,Female,2015,0,Active,3,0,3,2,4,5,1,0,0,0,0,8,0,0,0,0,0,0,0,0,2018
+SKarf,alpha_entertainment,Female,2012,2014,Disband,2,0,5,5,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2013
+SKYGIRLS,colabs,Female,2019,0,Active,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Sol-T,probeat_company,Female,2016,2017,Disband,0,0,6,4,4,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2016
+SONAMOO,ts_entertainment,Female,2014,0,Active,6,0,5,5,7,2,0,0,3,0,1,2,0,0,0,0,0,0,0,2,2019
+SONOKI,independent,Female,2020,0,Active,3,0,4,4,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+SPICA,colabs,Female,2012,2017,Disband,4,0,5,5,5,0,1,0,2,0,0,5,1,0,0,0,0,1,0,3,2016
+STAYC,high_up_entertainment,Female,2020,0,Active,6,0,6,6,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2021
+Stellar,the_entertainment_pascal,Female,2011,2018,Disband,5,0,4,0,4,8,0,0,3,0,1,6,0,0,0,0,0,0,0,1,2017
+Sugar Moon,bigband_entertainment,Female,2016,2016,Disband,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Sugar Tint,ramah_entertainment,Female,2018,2019,Disband,2,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+Sunny Days,haeun_entertainment,Female,2012,2016,Disband,3,0,5,1,6,11,0,0,0,0,0,6,1,0,0,0,0,0,0,1,2015
+Sunny Hill,bod_entertainment,Female,2007,0,Active,4,0,4,1,3,6,0,1,4,0,2,9,2,0,0,0,0,0,0,11,2021
+Sunny Play,make_d_entertainment,Female,2017,2018,Disband,0,0,9,9,9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+SUPA,sp_entertainment,Female,2016,2018,Disband,1,0,5,4,4,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+SWAN,forasia_entertainment,Female,2007,2007,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2007
+Swi.T,yg_entertainment,Female,2002,2004,Disband,0,0,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2002
+Switch Berry,dam_entertainment,Female,2012,2018,Disband,2,0,4,0,4,15,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2016
+T-ARA,mbk_entertainment,Female,2009,2017,Disband,4,0,4,4,6,4,2,1,9,2,0,10,0,3,0,0,9,1,0,11,2017
+T.T.Ma,music_factory_entertainment,Female,1999,2002,Disband,0,0,5,3,5,4,0,2,0,0,0,1,0,0,0,0,0,0,0,0,2007
+Tahiti,dreamstar_entertainment,Female,2012,2018,Disband,6,0,4,3,6,7,0,0,2,0,0,5,0,0,0,0,0,0,0,2,2016
+TeensEL,el_movement,Female,2018,0,Active,3,0,6,1,8,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2019
+The Ark,music_k_entertainment,Female,2015,2016,Disband,5,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+THE GLOSS,mgmc_korea_limited,Female,2013,2014,Disband,5,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+The Grace,sm_entertainment,Female,2005,2015,Disband,0,0,3,3,4,1,0,1,0,0,4,0,0,2,0,0,7,0,0,0,2013
+The Lush,oscar_entertainment,Female,2013,2017,Disband,0,0,3,3,3,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4,2017
+The Pink Lady,od_entertainment,Female,2019,0,Active,3,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+The SeeYa,core_contents_media,Female,2012,2016,Disband,0,0,4,4,4,0,0,0,1,0,0,4,0,0,0,0,0,0,0,3,2014
+The Starz,shin_enetrtainment,Female,2015,2017,Disband,0,0,4,4,5,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2016
+Tier 4,independent,Female,2020,0,Active,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2020
+TINT,gh_entertainment,Female,2013,2015,Disband,3,0,5,5,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2014
+Tiny-G,gng_production,Female,2012,2015,Disband,0,0,3,3,4,1,1,0,0,0,0,4,0,0,0,0,0,1,0,2,2014
+To-Ya,norman_entertainment,Female,2000,2003,Disband,0,0,3,3,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2001
+TREN-D,baeksang_entertainment,Female,2013,2016,Disband,4,0,5,1,5,8,0,0,0,1,0,3,0,0,0,0,0,0,0,0,2015
+TRI.BE,tr_entertainment,Female,2020,0,Active,6,0,7,7,7,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2021
+TROPICAL,luk_factory,Female,2018,2019,Disband,4,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+TURAN,starpro_entertainment,Female,2013,2016,Disband,2,0,6,0,7,14,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2016
+TWEETY,time_entertainment,Female,2015,0,Active,4,0,2,1,6,11,0,0,0,0,0,8,0,0,0,0,0,0,0,0,2019
+TWICE,jyp_entertainment,Female,2015,0,Active,15,0,9,9,9,0,0,5,10,6,0,1,0,2,1,0,8,5,0,0,2021
+Two X,star_gaze_entertainment,Female,2012,2017,Disband,4,0,4,4,5,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2016
+U-HOO,vida_records,Female,2017,2018,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+U-US,erum_entertainment,Female,2016,2019,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2018
+UNI.T,pocketdol_studio,Female,2018,2018,Disband,5,0,9,9,9,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2018
+UNICA,j-mate_entertainment,Female,2017,2018,Disband,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+Unicorn,cartoon_blue_company,Female,2015,2017,Disband,5,0,4,4,5,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2016
+UNIZ,c2k_entertainment,Female,2015,2016,Disband,2,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+Ureka,hy_company,Female,2016,2018,Disband,2,0,4,4,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Vanilla Lucy,hanmaek_entertainment,Female,2010,2011,Disband,1,0,4,4,5,1,0,1,0,0,3,0,0,0,0,0,0,0,0,0,2011
+Various,cowl_entertainment,Female,2016,2018,Disband,5,0,4,1,5,8,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2018
+Venus,colabs,Female,2019,0,Active,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Vetty-L,oh_entertainment,Female,2014,2016,Disband,3,0,3,3,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+VIOLET,afreecatv,Female,2019,0,Active,0,0,5,5,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+Vitamin,clevr_e&m,Female,2015,0,Active,2,0,4,1,7,16,0,0,0,0,0,13,2,0,0,0,0,0,0,0,2020
+VIVA,shine_e&m,Female,2017,2019,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+VIVIDIVA,dn_entertainment,Female,2015,2016,Disband,5,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+WANNA.B,zenith_media_contents,Female,2014,2019,Disband,6,0,4,0,4,11,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2019
+Wassup,colabs,Female,2013,2019,Disband,3,0,4,4,7,3,0,0,3,0,0,5,0,0,0,0,0,0,0,1,2017
+We Girls,aftermoon_entertainment,Female,2017,0,Active,4,0,8,1,3,13,0,0,1,0,1,2,0,0,0,0,0,0,0,0,2019
+Weeekly,play_m_entertainment,Female,2020,0,Active,7,0,7,7,7,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,2021
+Weki Meki,fantagio_music,Female,2017,0,Active,8,0,8,8,8,0,0,0,4,0,2,1,2,0,0,0,0,0,0,3,2020
+Whiteday,wd_entertainment,Female,2019,2020,Disband,5,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+WIZ N,colabs,Female,2020,0,Active,0,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+WJMK,colabs,Female,2018,0,Active,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+WJSN,colabs,Female,2016,0,Active,7,4,9,13,13,0,2,1,9,1,0,0,1,0,0,0,0,0,0,0,2021
+Wonder Girls,jyp_entertainment,Female,2007,2017,Disband,3,0,4,3,6,5,0,3,2,0,4,5,0,1,2,0,0,7,0,1,2017
+woo!ah!,nv_entertainment,Female,2020,0,Active,6,0,5,5,6,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2021
+XoX,hakjam_company,Female,2017,0,Active,3,0,3,0,3,10,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+XUM,a100_entertainment,Female,2020,0,Active,6,0,3,3,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2020
+Ye-A,colabs,Female,2014,2015,Disband,3,0,7,4,8,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+Year 7 Class 1,dareun_byeol_entertainment,Female,2014,2018,Disband,5,0,7,7,7,0,0,0,1,0,0,7,0,0,0,0,1,0,0,0,2017
+Yellow Bee,addiction_entertainment,Female,2017,2020,Disband,4,0,5,0,5,10,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2019
+YJIG,gr_entertainment,Female,2018,2019,Disband,4,0,3,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+YPDA,j_company_entertainment,Female,2018,0,Active,4,0,2,2,4,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2018
+015b,the015b,Male,1990,1996,Disband,3,0,4,4,4,0,0,6,0,2,0,0,0,0,0,0,0,0,0,0,1996
+015b,the015b,Male,2006,0,Active,3,0,2,2,2,0,0,4,1,3,1,11,0,0,0,0,0,0,0,28,2020
+100%,top_media,Male,2012,0,Active,10,4,4,4,7,3,1,0,6,0,2,2,0,0,0,0,5,0,0,0,2019
+14U,bg_entertainment,Male,2017,2019,Disband,7,0,14,13,14,2,0,0,0,0,3,1,0,0,0,0,0,0,0,1,2018
+1Team,liveworks_company,Male,2019,2021,Disband,6,0,5,5,5,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,2020
+1the9,colabs,Male,2020,2020,Disband,5,0,9,9,9,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,2020
+1tym,yg_entertainment,Male,1998,2006,Disband,1,0,4,4,4,4,0,5,0,0,0,0,0,0,0,0,0,0,0,2,2005
+24k,choeun_entertainment,Male,2012,0,Active,8,0,5,0,5,16,1,1,5,0,2,0,0,0,0,0,0,0,0,0,2018
+2am,jyp_entertainment,Male,2008,2015,Disband,4,0,4,4,4,0,0,3,3,0,2,0,0,1,0,0,5,1,0,0,2014
+2pm,jyp_entertainment,Male,2008,2017,Disband,8,0,6,6,7,1,0,6,1,0,3,6,0,5,0,0,12,0,0,1,2016
+2z,gogo2020,Male,2020,0,Active,5,0,5,5,6,1,0,1,0,2,0,3,0,0,0,0,0,0,0,0,2021
+4men,major9,Male,1998,0,Active,1,0,3,0,4,11,0,6,5,3,0,6,0,0,0,0,0,0,0,20,2021
+5tion,iv_entertainment,Male,2001,0,Active,5,0,5,1,5,16,0,3,1,0,2,15,0,1,0,0,5,0,0,1,2020
+5urprise,fantagio_music,Male,2014,2020,Disband,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2,2016
+A'st1,dsp_media,Male,2008,2009,Disband,0,0,6,6,6,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2009
+A-jax,dsp_media,Male,2012,2019,Disband,7,0,5,4,7,4,0,0,2,0,1,3,0,0,0,0,4,0,0,0,2018
+A-prince,excellent_entertainment,Male,2011,2015,Disband,3,0,5,1,5,8,0,0,3,0,1,3,0,0,0,0,0,0,0,0,2014
+a.c.e,beat_interactive,Male,2017,0,Active,10,1,5,5,5,0,0,0,3,1,2,1,2,0,0,0,0,3,0,2,2021
+A.clan,colabs,Male,2012,0,Active,5,0,4,1,5,10,0,0,2,0,2,8,0,0,0,0,0,0,0,0,2016
+A6P,ds_entertainment,Male,2015,2016,Disband,3,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+AA,wellmade_starm,Male,2011,2015,Disband,4,0,6,5,5,1,1,0,1,0,1,3,0,0,0,0,0,0,0,0,2013
+AB6IX,brand_new_music,Male,2019,0,Active,6,0,4,4,5,1,1,1,0,5,0,0,0,0,0,0,0,0,0,2,2021
+AboutU,colabs,Male,2018,0,Active,5,0,3,3,4,1,0,0,0,1,0,11,0,0,0,0,0,0,0,0,2021
+all-star,burnhard_entertainment,Male,2015,2017,Disband,3,0,2,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+alldayz,guys_ent,Male,2017,2017,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+AlphaBAT,apb_entertainment,Male,2013,0,Active,10,1,5,3,9,8,0,0,2,0,3,4,1,0,0,0,0,0,0,0,2020
+Apeace,golden_goose_entertainment,Male,2010,0,Active,4,2,12,0,21,27,3,0,2,0,0,0,0,3,1,0,10,0,0,0,2019
+apl,dam_entertainment,Male,2016,0,Active,3,0,5,5,5,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,2017
+argon,msh_entertainment,Male,2019,0,Active,6,0,6,6,6,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2019
+ashgray,bigfoot_records,Male,2009,0,Active,3,0,2,2,4,2,0,1,2,0,0,13,0,0,0,0,0,0,0,6,2018
+astin,kingtop_entertainment,Male,2019,2019,Disband,3,0,8,8,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2019
+Astro,fantagio_music,Male,2016,0,Active,11,0,6,6,6,0,1,3,7,1,0,3,1,0,1,0,0,0,0,1,2021
+ateenz,kq_entertainment,Male,2018,0,Active,7,1,8,8,8,0,0,1,6,1,0,0,0,2,1,0,0,0,0,2,2021
+ATO6,yg_kplus,Male,2021,0,Active,0,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+aweek,illusion_entertainment,Male,2018,0,Active,7,2,7,7,8,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,2020
+axisB,axb_entertainment,Male,2016,2017,Disband,6,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,2017
+B.A.P,ts_entertainment,Male,2012,2019,Disband,5,0,4,4,6,2,1,2,5,1,8,4,0,3,0,0,9,0,0,0,2018
+B.heart,poong_entertainment,Male,2016,2018,Disband,4,0,4,4,4,0,0,0,1,0,0,5,0,0,0,0,0,0,0,1,2017
+B.I.G,gh_entertainment,Male,2014,0,Active,3,0,4,3,5,3,1,0,1,0,7,2,0,0,0,0,0,0,0,1,2019
+B.I.T(2017),sd.ent,Male,2017,2017,Disband,0,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+B.O.i,m.fel_entertainment,Male,2013,2013,Disband,1,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+B1A4,wm_entertainment,Male,2011,0,Active,6,2,5,5,5,0,0,4,7,0,0,4,0,5,0,0,10,1,0,8,2020
+Bae173,pocketdol_studio,Male,2020,0,Active,2,0,9,9,9,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2021
+baikal,baikal_entertainment,Male,2017,2019,Disband,5,0,7,7,7,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2018
+Bandage,play_m_entertainment,Male,2020,0,Active,4,0,4,4,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2020
+BDC,brand_new_music,Male,2019,0,Active,6,0,3,3,3,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,2021
+be.A,chrome_entertainment,Male,2014,2017,Disband,5,0,5,5,5,2,0,0,1,0,1,4,0,0,0,0,0,0,0,1,2017
+beatwin,elen_entertainment,Male,2017,2017,Disband,6,0,5,5,6,1,0,0,2,0,0,5,0,0,0,0,3,0,0,1,2017
+BECZ,h&h_entertainment,Male,2020,2020,Disband,0,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Boyfriend,starship_entertainment,Male,2011,2019,Disband,3,0,6,6,6,0,0,1,5,0,3,3,0,3,1,0,12,0,0,0,2019
+bga,wong_fu_productions,Male,2016,0,Active,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+big brain,major9,Male,2015,2017,Disband,4,0,4,4,4,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2016
+bigbang,yg_entertainment,Male,2006,0,Active,5,0,4,4,5,1,0,3,5,11,7,1,4,4,3,11,5,0,0,0,2018
+bigflo,colabs,Male,2014,0,Active,6,0,3,5,0,9,1,0,5,0,0,1,0,0,1,0,1,0,0,0,2018
+bigstar,brave_entertainment,Male,2012,2019,Disband,5,0,5,5,5,0,0,0,3,0,0,4,0,0,0,0,0,0,0,1,2015
+BLACK6IX,black_hole_entertainment,Male,2017,2021,Disband,5,0,6,6,6,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,2020
+BLANC7,jackpot_entertainment,Male,2017,2019,Disband,5,0,7,7,7,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,2018
+BLAST,kings_entertainment,Male,2014,2015,Disband,2,0,5,0,5,12,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+BLITZERS,wuzo_entertainment,Male,2020,0,Active,5,0,7,7,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2021
+BLK,byking_entertainment,Male,2017,2018,Disband,5,0,7,6,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2017
+block b,seven_seasons,Male,2011,0,Active,5,4,7,7,7,0,2,1,6,0,2,2,0,1,1,0,6,0,0,4,2018
+block chain,af_entertainment,Male,2018,0,Active,2,0,5,5,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+Boys Republic,colabs,Male,2013,2018,Disband,6,0,5,5,5,0,0,0,3,0,0,5,0,1,0,0,5,0,0,1,2018
+BOYS24,cj_e&m,Male,2016,2017,Disband,1,0,8,8,8,0,5,2,0,0,1,1,0,0,0,0,0,0,0,0,2017
+BLT,colabs,Male,2014,2015,Disband,4,0,7,4,7,6,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2015
+BTOB,cube_entertainment,Male,2012,0,Active,11,2,6,6,7,1,2,2,11,2,0,6,4,1,0,0,7,0,0,6,2018
+BTS,bighit_music,Male,2013,0,Active,13,0,7,7,7,0,0,4,7,3,1,4,1,4,0,3,10,5,1,2,2020
+build up,inakist_entertainment,Male,2019,0,Active,4,1,6,2,3,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+Buzz(1),in_next_trend,Male,2003,2006,Disband,2,0,5,5,7,2,0,1,3,1,0,3,0,0,0,0,0,0,0,8,2006
+Buzz(2),in_next_trend,Male,2014,0,Active,2,0,5,5,5,0,0,3,0,1,0,9,0,0,0,0,0,0,0,1,2021
+BXK,new_planet_entertainment,Male,2020,0,Active,6,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+Bz boys,chrome_entertainment,Male,2019,0,Active,7,0,5,5,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2019
+C-CLOWN,yedang_entertainment,Male,2012,2015,Disband,0,0,6,6,6,0,0,0,4,0,0,3,0,0,0,0,0,0,0,0,2014
+Champs,js_entertainment,Male,2013,2015,Disband,2,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+cici,upvote_entertainment,Male,2019,2019,Disband,5,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+ciipher,rain_company,Male,2021,0,Active,6,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+CIX,c9_entertainment,Male,2019,0,Active,7,0,5,5,5,0,0,0,0,4,0,1,0,0,0,1,2,1,0,0,2021
+Classmate,hf_music_company,Male,2017,0,Active,4,0,3,3,3,0,0,0,0,3,0,8,0,0,0,0,0,0,0,0,2021
+CN19,colabs,Male,2020,0,Active,1,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+CNBLUE,fnc_entertainment,Male,2009,0,Active,9,0,3,5,5,2,0,2,8,2,0,2,2,8,2,0,15,0,0,0,2021
+Code-V,code_m_agency,Male,2010,2018,Disband,3,0,5,3,6,4,0,1,0,0,0,2,0,5,0,1,18,0,0,2,2018
+bless,code_m_agency,Male,2007,2010,Disband,3,0,3,3,5,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2009
+CRAVITY,starship_entertainment,Male,2020,0,Active,9,0,9,9,9,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2021
+CROSS GENE,amuse_korea,Male,2012,0,Active,5,0,4,3,6,4,0,0,5,0,0,6,0,1,1,1,3,7,0,0,2019
+D-CRUNCH,ai_grand_korea,Male,2018,0,Active,7,0,8,8,8,0,1,0,4,0,1,2,0,0,0,0,1,0,0,0,2021
+D.COY,rolling_culture_one,Male,2019,0,Active,8,0,5,5,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,2020
+D1CE,d1ce_entertainment,Male,2019,0,Active,7,1,5,5,5,0,0,0,2,0,0,2,0,0,0,0,0,0,0,2,2021
+DAY6,colabs,Male,2015,0,Active,8,1,5,5,6,1,1,3,7,0,0,11,0,1,0,0,2,1,0,1,2021
+dgna,colabs,Male,2010,0,Active,3,0,4,4,5,1,0,0,2,0,3,2,0,0,2,0,8,0,0,0,2017
+dkb,brave_entertainment,Male,2019,0,Active,7,0,9,9,9,0,0,1,3,0,0,0,0,0,1,0,2,0,0,0,2021
+dmtn(1),2works_entertainment,Male,2010,2013,Disband,1,0,6,6,6,0,0,0,2,0,0,3,0,0,0,0,0,0,0,1,2013
+dmtn(2),8pexcompany,Male,2020,0,Active,1,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+DONGKIZ,dongyo_entertainment,Male,2019,0,Active,5,0,5,5,5,0,1,0,1,0,4,3,0,0,0,0,0,0,0,0,2021
+Double Eight,hy_company,Male,2015,2017,Disband,3,0,6,3,5,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2017
+DRIPPIN,woollim_entertainment,Male,2020,0,Active,6,0,7,7,7,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2021
+Drunken Tiger,feel_ghood_music,Male,1998,2018,Disband,2,0,2,2,2,0,0,10,0,0,0,4,0,0,0,0,0,0,0,4,2018
+DUSTIN,lpa_entertainment,Male,2019,0,Active,4,1,7,7,9,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+E'LAST,e_entertainment,Male,2020,0,Active,7,0,8,8,8,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2020
+E7,excellent_entertainment,Male,2012,2013,Disband,2,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2012
+ELVIN CREW,hicc,Male,2017,2017,Disband,3,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+ENHYPEN,belift_lab,Male,2020,0,Active,8,0,7,7,7,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2021
+ENOi,kithewhale_company,Male,2019,2021,Disband,2,0,7,7,7,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,2020
+EPEX,c9_entertainment,Male,2021,0,Active,8,0,8,8,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2021
+Epik High,ours_co.,Male,2003,0,Active,5,0,3,3,3,0,0,10,1,4,0,2,0,2,0,0,0,1,0,6,2018
+EXO,sm_entertainment,Male,2012,0,Active,9,5,9,9,12,3,4,6,2,9,0,4,1,1,0,0,3,1,1,1,2020
+EXP EDITION,immabb_entertainment,Male,2016,0,Active,5,0,4,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2018
+F.able,haeirum_entertainment,Male,2020,0,Active,5,0,3,2,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+F.CUZ,on_the_bill_company,Male,2010,0,Active,4,2,5,3,4,3,0,0,4,0,0,8,1,0,2,0,10,0,0,5,2020
+FALLANC,rf_entertainment,Male,2018,2019,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+FameUs,colabs,Male,2014,2016,Disband,3,0,6,6,6,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2015
+FANXY CHILD,koz_entertainment,Male,2019,0,Active,0,0,6,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2019
+Forestella,colabs,Male,2018,0,Active,2,0,4,4,4,0,0,2,0,0,0,5,0,0,0,0,0,0,0,11,2020
+FTISLAND,fnc_entertainment,Male,2007,0,Active,7,2,3,3,5,3,0,7,6,4,0,5,0,10,1,0,21,0,0,0,2019
+GHOST9,maroo_entertainment,Male,2020,0,Active,5,0,9,9,9,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2021
+GIDONGDAE,2y_entertainment,Male,2021,2021,Disband,7,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+god(1),jyp_entertainment,Male,1999,2005,Disband,4,0,5,5,5,0,0,7,0,0,0,0,0,0,0,0,0,0,0,2,2005
+god(2),jyp_entertainment,Male,2014,0,Active,4,0,5,5,5,0,0,1,0,2,1,3,0,0,0,0,0,0,0,1,2020
+Golden Child,woollim_entertainment,Male,2017,0,Active,9,0,10,10,11,1,0,1,5,0,2,0,1,0,0,0,0,0,0,3,2021
+GOT7,jyp_entertainment,Male,2014,0,Active,12,0,7,7,7,0,2,3,11,0,0,4,0,1,4,0,5,4,1,0,2021
+GreatGuys,dna_entertainment,Male,2017,0,Active,5,2,9,9,9,0,0,0,2,1,0,4,0,0,0,0,0,0,0,0,2021
+H.O.T,sm_entertainment,Male,1996,2001,Disband,0,0,5,5,5,0,0,5,0,4,0,0,0,0,0,0,0,0,0,2,2001
+HALO,histar_entertainment,Male,2014,0,Active,6,3,6,6,6,0,0,0,3,0,3,2,0,1,0,0,4,0,0,1,2018
+HBY,opus_entertainment,Male,2017,2020,Disband,5,0,4,4,5,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,2019
+HeartB,marblepop_entertainment,Male,2014,2016,Disband,6,0,4,4,4,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,2015
+Herycle,gul_dduk_entertainment,Male,2012,2014,Disband,3,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2014
+Hidden,yanus_music,Male,2015,2016,Disband,1,0,5,5,5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2016
+HIDDEN FOLDER,colabs,Male,2020,0,Active,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+HIGH4,n.a.p._entertainment,Male,2014,2017,Disband,8,0,4,4,4,0,1,0,2,0,0,5,1,0,2,0,0,0,0,0,2017
+Highlight�,around_us_entertainment,Male,2016,0,Active,6,0,4,4,6,2,0,0,3,1,0,2,0,0,0,0,0,0,0,0,2021
+BEAST,cube_entertainment,Male,2009,2016,Disband,6,0,4,4,6,2,0,3,8,1,0,11,0,3,0,0,9,8,0,12,2016
+HISTORY�,fave_entertainment,Male,2013,2017,Disband,6,0,5,5,5,0,0,0,5,0,1,0,0,0,1,0,2,0,0,0,2016
+HONEYST,fnc_entertainment,Male,2017,2019,Disband,6,0,4,4,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,2019
+HOTSHOT,star_crew_entertainment,Male,2014,2021,Disband,6,1,6,6,6,0,0,0,2,0,1,2,0,0,0,0,1,0,0,0,2018
+Hwang Project,jellyfish_entertainment,Male,2008,2011,Disband,0,0,3,3,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2011
+I-REX,tarzan_entertainment,Male,2013,2014,Disband,1,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2013
+ikon,yg_entertainment,Male,2015,0,Active,7,0,6,6,7,1,0,2,3,1,1,4,0,4,3,8,1,2,0,0,2021
+im,mbk_entertainment,Male,2017,0,Active,1,1,3,3,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+IMFACT,star_empire_entertainment,Male,2016,0,Active,6,0,5,5,5,0,0,0,1,0,3,6,0,0,1,0,0,0,0,5,2020
+IN2IT,mmo_entertainment,Male,2017,0,Active,6,4,6,6,8,2,0,0,1,0,4,0,0,0,0,0,1,1,0,2,2020
+infinte,woollim_entertainment,Male,2010,0,Active,6,2,6,6,7,1,2,3,6,3,2,7,1,3,0,0,6,1,0,3,2019
+INX,na_entertainment,Male,2016,2017,Disband,5,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2017
+IZ,music_k_entertainment,Male,2017,0,Active,7,0,4,4,4,0,0,0,2,0,4,2,0,0,0,0,0,0,0,0,2021
+JACE,right_achievement_group,Male,2014,2016,Disband,4,0,5,5,5,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,2015
+Jacoby Planet,c9_entertainment,Male,2015,0,Active,1,0,4,4,5,1,0,0,1,0,0,3,0,0,0,0,0,0,0,1,2018
+JBJ,loen_entertainment,Male,2017,2018,Disband,5,0,6,6,6,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2018
+JJCC,jackie_chan_group_korea,Male,2014,0,Active,8,0,5,5,7,2,0,0,2,0,0,4,0,0,0,0,2,0,0,0,2016
+JUO,soundbox_music,Male,2020,0,Active,2,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,2020
+JYJ,c-jes_entertainment,Male,2010,0,Active,4,0,2,2,3,1,0,2,0,1,0,2,0,1,1,0,1,0,0,0,2015
+Kingdom�2018,independent,Male,2018,2018,Disband,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+KINGDOM�2020,gf_entertainment,Male,2021,0,Active,5,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+KNK,220_entertainment,Male,2016,0,Active,9,0,5,5,6,1,0,3,0,0,4,2,0,0,0,0,1,0,0,0,2020
+KOKOON,yoonseo_group,Male,2018,0,Active,4,0,5,5,5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+LA POEM,moss_music,Male,2020,0,Active,7,0,4,4,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2021
+LC9,nega_network,Male,2013,2015,Disband,4,0,5,5,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2014
+LedT,starkim_entertainment,Male,2010,2016,Disband,2,0,3,1,5,11,0,0,3,0,2,8,0,0,0,0,0,0,0,2,2014
+Like A Movie,top_cloud_entertainment,Male,2018,0,Active,3,0,5,5,6,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2019
+Limit,independent,Male,2021,0,Active,2,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+LIMITLESS�,ono_entertainment,Male,2019,0,Active,4,0,5,5,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2019
+LST,hyunda_company,Male,2018,0,Active,2,0,5,3,6,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2020
+LU:KUS,jwk_entertainment,Male,2014,0,Active,5,0,4,3,5,3,0,0,1,0,0,5,0,0,0,0,3,0,0,1,2019
+LUCENTE,noga_entertainment,Male,2018,0,Active,5,3,6,5,6,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2018
+LUNAFLY,nega_network,Male,2012,2017,Disband,4,0,2,2,5,3,0,1,1,0,2,4,0,1,0,0,0,1,0,2,2016
+M.Crown,star_pro_entertainment,Male,2015,2016,Disband,3,0,10,10,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2015
+M.O.N.T,fm_entertainment,Male,2019,0,Active,7,0,3,3,3,0,0,0,3,0,0,5,0,0,0,0,0,0,0,0,2020
+MADTOWN,gni_entertainmen,Male,2014,2017,Disband,3,0,7,7,7,0,0,0,3,0,0,1,0,0,1,0,0,0,0,1,2016
+MAP6,all-s_company,Male,2015,0,Active,5,4,5,5,5,0,0,0,0,0,3,1,0,2,0,0,4,0,0,0,2019
+MASC,j_planet_entertainment,Male,2016,2020,Disband,7,0,4,2,4,6,0,0,1,0,0,3,0,0,0,0,0,0,0,0,2019
+MBLAQ,j.tune_camp,Male,2009,0,Active,2,3,3,3,5,2,0,1,6,0,2,2,0,1,0,0,4,0,0,0,2015
+MCND,top_media,Male,2020,0,Active,5,0,5,5,5,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,2021
+MIRAE�,dsp_media,Male,2021,0,Active,7,0,7,7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+MONSTA X,starship_entertainment,Male,2015,0,Active,7,0,6,6,7,1,0,3,9,0,0,3,0,4,0,0,9,6,0,7,2021
+MR.MR,e-ho_entertainment,Male,2012,2018,Disband,5,0,5,3,5,6,0,0,2,0,0,7,0,0,0,0,5,0,0,0,2018
+MustB,mustm_entertainment,Male,2019,0,Active,7,0,5,5,7,2,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2020
+MVP,ph_entertainment,Male,2017,0,Active,5,0,7,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2020
+MY.st,mystar_entertainment,Male,2018,0,Active,7,1,5,5,5,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,2021
+MYNAME,h2media,Male,2011,0,Active,9,0,5,5,5,0,0,0,2,0,4,1,0,6,0,0,5,0,0,0,2018
+MYTEEN,the_music_works,Male,2017,2019,Disband,4,0,6,6,7,1,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2018
+N-SONIC,c2k_entertainment,Male,2011,2016,Disband,5,0,6,3,6,7,0,0,3,0,0,5,0,0,0,0,0,1,0,1,2016
+N.CUS,kyuri_entertainment,Male,2019,0,Active,8,1,9,9,12,3,1,0,1,0,0,1,0,0,0,0,0,0,0,0,2021
+N.Flying,fnc_entertainment,Male,2013,0,Active,12,0,5,3,4,3,0,0,7,0,1,2,1,1,0,0,6,1,0,5,2021
+N.O.M,jz_factory_entertainment,Male,2013,0,Active,5,0,3,2,5,3,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2021
+N.tic,yechan_media,Male,2018,0,Active,4,0,4,4,5,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2019
+NCT,sm_entertainment,Male,2016,0,Active,11,0,23,14,14,9,4,2,0,0,0,1,0,0,0,0,0,0,0,0,2020
+NELL,space_bohemian,Male,2001,0,Active,7,0,4,4,4,0,0,10,2,2,1,10,0,0,0,0,0,1,0,6,2021
+NewBlood,hem_entertainment,Male,2015,2016,Disband,1,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2016
+Newkidd,j-flo_entertainment,Male,2019,0,Active,7,1,7,7,7,0,2,0,0,0,2,0,0,0,0,0,0,0,0,1,2020
+NewTownBoyz,first_step_company,Male,2016,0,Active,4,0,3,2,4,5,0,1,0,0,0,3,0,0,0,0,0,0,0,2,2018
+NOIR,luk_factory,Male,2018,0,Active,7,0,9,9,9,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,2020
+NOM�,jm_star_entertainment,Male,2013,2016,Disband,2,0,5,5,5,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,2015
+NPI,new_planet_entertainment,Male,2015,2016,Disband,3,0,6,6,6,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+NTB,high_choice_entertainment,Male,2016,0,Active,7,1,6,6,6,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,2018
+NTX,victory_company,Male,2021,0,Active,3,0,10,10,10,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,2021
+NU'EST,pledis_entertainment,Male,2012,0,Active,10,0,5,5,5,0,2,2,8,0,1,1,1,2,0,0,2,3,0,3,2021
+NUBOYZ,starship_entertainment,Male,2014,2014,Disband,0,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2014
+OFF THE CUFF,purple_entertainment,Male,2021,0,Active,2,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+ON AIR,jg_entertainment,Male,2020,0,Active,0,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+One O One,starhaus_entertainment,Male,2015,2019,Disband,5,0,4,4,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2016
+ONEUS,rbw,Male,2019,0,Active,8,0,6,6,6,0,0,1,5,0,1,1,0,0,0,0,3,0,0,2,2021
+ONEWE,rbw,Male,2016,0,Active,6,0,5,5,5,0,0,1,2,1,1,6,0,0,0,0,0,1,0,1,2020
+ONF,wm_entertainment,Male,2017,0,Active,11,0,6,6,7,1,2,1,5,0,0,0,0,0,0,0,2,0,0,6,2021
+OnlyOneOf,8d_entertainment,Male,2019,0,Active,7,0,7,7,7,0,0,0,3,0,2,2,0,0,0,0,0,0,0,0,2021
+P1Harmony,fnc_entertainment,Male,2020,0,Active,9,0,6,6,6,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,2021
+PARADISE,hlcompany,Male,2017,0,Active,6,1,5,5,6,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2020
+PENTAGON,cube_entertainment,Male,2016,0,Active,13,2,9,9,10,1,0,1,11,0,3,0,0,1,4,0,2,5,0,4,2021
+Phantom,brand_new_music,Male,2011,2017,Disband,2,0,3,3,3,0,0,1,2,0,8,0,1,0,0,0,0,0,0,4,2015
+PLATINUM78,in_media_a&d,Male,2019,0,Active,3,0,5,0,7,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2019
+PLT,planetarium_records,Male,2018,0,Active,5,0,6,6,6,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,2018
+PUREBOY,it_entertainment,Male,2014,2018,Disband,4,0,5,0,11,16,1,0,1,0,0,1,0,0,0,0,1,0,0,1,2015
+RAINZ,kiss_entertainment,Male,2017,2018,Disband,7,0,7,7,7,0,0,0,2,0,0,1,0,0,0,0,2,0,0,1,2018
+RE:KIDS DREAM,retune_music,Male,2020,0,Active,4,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+Rion Five,narda_entertainment,Male,2014,0,Active,7,0,5,5,6,1,0,0,0,0,0,3,1,0,0,0,0,0,0,2,2016
+Road Boyz,coconut_entertainment,Male,2015,2016,Disband,5,0,5,5,5,0,0,0,1,0,0,4,0,0,0,0,0,0,0,1,2016
+ROMEO�,hunus_entertainment,Male,2015,0,Active,5,3,7,7,7,0,0,0,4,0,1,0,0,0,0,0,0,0,0,1,2019
+SECHSKIES(1),dsp_media,Male,1997,2000,Disband,3,0,6,6,6,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,2000
+SECHSKIES(2),yg_entertainment,Male,2016,0,Active,3,0,4,4,6,2,0,1,1,2,0,1,0,0,0,1,0,0,0,2,2020
+Seo Taiji and Boys,bando_records,Male,1992,1996,Disband,0,0,3,3,3,0,0,4,0,4,1,0,0,0,0,0,0,0,0,0,1996
+Seven O'clock,forest_network,Male,2017,2021,Disband,7,0,7,7,8,1,0,0,3,0,1,1,1,0,0,0,0,0,0,4,2020
+SEVENTEEN,pledis_entertainment,Male,2015,0,Active,11,0,13,13,13,0,5,3,8,4,0,1,0,0,2,0,3,2,0,5,2021
+SF9,fnc_entertainment,Male,2016,0,Active,14,0,9,9,9,0,0,1,8,1,1,0,1,3,0,0,11,0,0,2,2020
+SG Wannabe,stone_music_entertainment,Male,2004,0,Active,2,0,3,2,4,2,0,7,2,4,0,4,0,1,0,0,3,0,0,18,2018
+SHINee,sm_entertainment,Male,2008,0,Active,10,0,4,4,5,1,0,7,5,4,0,0,0,5,1,0,15,0,0,0,2018
+SHINHWA,sm_entertainment,Male,1998,0,Active,6,0,6,6,6,0,0,13,0,9,0,5,1,1,0,0,1,0,0,0,2018
+SIGMA,pluswin,Male,2020,0,Active,4,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+SIGNAL�,elmusix,Male,2018,0,Active,4,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+SNUPER,widmay_entertainment,Male,2015,0,Active,10,1,6,6,6,0,0,0,5,1,1,1,1,0,0,0,7,0,0,2,2020
+Solid,riak,Male,1993,1997,Disband,5,0,3,3,3,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,1997
+SPECTRUM�,wynn_entertainment,Male,2018,2020,Disband,6,0,6,6,7,1,0,0,2,0,2,1,0,0,0,0,0,0,0,0,2020
+SPEED,mbk_entertainment,Male,2013,2015,Disband,2,0,8,8,8,0,0,2,3,0,0,2,0,0,0,0,0,0,0,2,2015
+SS501,dsp_media,Male,2005,2010,Disband,0,0,5,5,5,0,1,1,2,2,3,6,0,2,0,0,3,0,0,8,2010
+Stray Kids,jyp_entertainment,Male,2018,0,Active,11,1,8,8,9,1,1,1,6,1,0,6,0,2,1,0,1,2,0,4,2020
+Super Five,mbc_favorite_entertainment,Male,2020,0,Active,0,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+SUPER JUNIOR,sm_entertainment,Male,2005,0,Active,8,1,10,9,12,4,5,10,1,7,0,6,1,1,1,0,12,0,0,3,2021
+SUPERKIDS,kids_planet,Male,2019,0,Active,3,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+SuperM,sm_entertainment,Male,2019,0,Active,9,1,7,7,7,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,2021
+SURPRISE U,fantagio_music,Male,2017,0,Active,2,0,4,4,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2017
+T-MAX,planet905_entertainment,Male,2007,2012,Disband,0,0,4,2,3,3,0,1,0,0,1,4,1,0,0,0,1,0,0,5,2011
+T.E.N,narda_entertainment,Male,2018,2018,Disband,2,0,10,10,10,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2018
+T1419,mld_entertainment,Male,2021,0,Active,9,0,9,9,9,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,2021
+TARGET,kj_music_entertainment,Male,2014,0,Active,8,1,7,7,7,0,0,0,1,0,3,1,0,0,0,0,2,1,0,0,2019
+TEEN TOP,top_media,Male,2010,0,Active,9,3,5,5,6,1,0,2,9,0,0,0,0,0,0,0,3,5,0,2,2019
+THE BOYZ,cre.ker_entertainment,Male,2017,0,Active,11,0,11,11,12,1,0,1,5,0,2,0,3,1,1,0,0,0,0,2,2021
+The King,stallion_entertainment,Male,2014,2019,Disband,5,0,5,5,5,0,0,0,1,0,0,4,0,0,1,0,0,0,0,1,2019
+The LEGEND,ss_entertainment,Male,2014,2016,Disband,3,0,5,5,5,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,2016
+THE MAN BLK,stardium,Male,2018,0,Active,4,2,7,7,10,3,0,0,2,0,0,0,0,0,0,0,0,0,0,3,2020
+The Rose,j&star_company,Male,2017,0,Active,6,3,4,4,4,0,0,0,2,0,1,3,0,0,0,0,0,0,0,2,2020
+The T-Bird,od_entertainment,Male,2019,0,Active,4,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2019
+TheEastLight.,media_line_entertainment,Male,2016,2018,Disband,4,0,6,6,6,0,0,0,2,0,0,4,3,0,0,0,0,0,0,0,2018
+TO.1,the_best_entertainment,Male,2018,2018,Disband,1,0,8,8,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+TO1,stone_music_entertainment,Male,2020,0,Active,8,0,10,10,10,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2021
+TraxX,sm_entertainment,Male,2004,0,Active,2,0,2,2,4,3,0,1,3,0,2,2,0,0,0,0,5,0,0,6,2018
+TRCNG,ts_entertainment,Male,2017,0,Active,4,0,8,8,8,10,2,0,1,0,2,1,0,0,0,0,2,1,0,0,2019
+TREASURE,yg_entertainment,Male,2020,0,Active,8,0,12,12,12,0,0,1,0,0,3,0,0,1,0,0,0,2,0,0,2021
+TREI,banana_culture,Male,2017,2020,Disband,5,0,3,3,3,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,2019
+Trigger�,dy_entertainment,Male,2019,0,Active,4,0,4,4,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2020
+TRITOPS,vl_entertainment,Male,2007,0,Active,6,0,4,3,3,2,0,1,1,0,2,11,0,0,0,0,2,21,0,2,2017
+Trophy,family_music_entertainment,Male,2015,2016,Disband,4,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
+TROY,brand_new_music,Male,2014,2017,Disband,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+Trusty,playmusic_ground,Male,2020,2020,Disband,2,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+TST,kj_music_entertainment,Male,2017,0,Active,7,2,4,4,7,3,0,0,2,0,4,0,0,0,0,0,0,0,0,0,2020
+Turbo(1),the_turbo_company,Male,1995,2000,Disband,0,0,3,3,3,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,2000
+Turbo(2),the_turbo_company,Male,2015,0,Active,0,0,3,3,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2017
+TVXQ!,sm_entertainment,Male,2003,0,Active,6,0,2,2,5,3,0,8,0,3,3,1,0,10,0,8,50,0,0,8,2020
+TXT,bighit_music,Male,2019,0,Active,13,0,5,5,5,0,0,2,3,0,0,1,0,1,0,0,2,1,0,1,2021
+U-KISS,nh_media,Male,2008,0,Active,4,0,3,1,5,9,2,3,11,11,0,10,0,8,1,0,16,4,0,3,2020
+UNB,pocketdol_studio,Male,2018,2019,Disband,8,0,9,9,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2018
+Underdog,independent,Male,2013,2017,Disband,2,0,6,1,6,16,0,0,0,0,5,0,0,0,0,0,0,0,0,0,2015
+UNIQ,yue_hua_entertainment,Male,2014,0,Active,6,1,5,5,5,0,0,0,1,0,0,2,0,0,1,0,0,7,0,3,2016
+UNVS,chitwn_music,Male,2016,0,Active,7,2,5,3,5,6,0,0,0,0,1,3,0,0,0,0,0,3,0,0,2020
+UP10TION,top_media,Male,2015,0,Active,8,3,10,10,10,0,0,1,9,2,0,0,0,0,0,0,3,0,0,1,2020
+V.O.S,j-soul_company,Male,2004,0,Active,1,0,3,3,3,1,0,3,3,2,0,12,1,0,0,0,0,0,0,9,2020
+VANNER,vt_entertainment,Male,2019,0,Active,7,0,5,5,5,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2020
+VARSITY,jungle_entertainment,Male,2017,2020,Disband,7,0,5,5,12,7,1,0,1,0,2,2,0,0,0,0,0,0,0,0,2020
+VAV,a_team,Male,2015,0,Active,7,1,7,4,7,6,0,0,6,0,0,5,4,0,0,0,0,0,0,0,2021
+VERIVERY,jellyfish_entertainment,Male,2019,0,Active,5,1,7,7,7,0,0,0,5,0,2,0,1,0,0,0,0,0,0,3,2021
+VERMUDA,pacemaker_entertainment,Male,2017,2019,Disband,3,0,5,4,5,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2018
+VICTON,play_m_entertainment,Male,2016,0,Active,7,0,7,7,7,0,0,1,6,0,2,0,0,0,0,0,0,0,0,1,2021
+VIXX,jellyfish_entertainment,Male,2012,0,Active,6,2,5,5,6,1,1,3,4,1,6,3,1,2,1,0,4,2,0,1,2019
+VOISPER,evermore_music,Male,2016,0,Active,5,0,4,4,4,0,0,1,1,0,0,9,0,0,0,0,0,0,0,2,2020
+VROMANCE,rbw,Male,2016,0,Active,6,3,4,4,4,0,0,0,2,0,0,10,0,0,0,0,0,0,0,6,2020
+VX,jj_entertainment,Male,2015,2017,Disband,6,0,5,5,5,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2017
+W.A.O,kingtop_entertainment,Male,2021,0,Active,5,0,7,7,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+W.I.T,team_wit,Male,2021,0,Active,4,0,5,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2021
+W24,jarmy_entertainment,Male,2018,0,Active,4,0,4,4,5,1,0,0,2,0,0,6,0,0,0,0,0,0,0,0,2020
+Wanna One,swing_entertainment,Male,2017,2019,Disband,8,0,11,11,11,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,2018
+WayV,colabs,Male,2019,0,Active,7,0,7,7,7,0,0,0,0,0,0,1,0,1,3,2,0,2,0,0,2021
+WE IN THE ZONE,choon_entertainment,Male,2018,0,Active,7,0,3,2,3,3,0,0,2,0,0,3,0,0,0,0,0,0,0,0,2020
+WEi,oui_entertainment,Male,2020,0,Active,8,0,6,6,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2021
+Welldone Potato,banana_culture,Male,2014,2016,Disband,3,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2015
+WINNER,yg_entertainment,Male,2014,0,Active,10,0,4,4,5,1,0,3,3,1,3,2,0,5,4,7,1,2,1,0,2020
+withus,withhc,Male,2020,0,Active,3,0,5,5,5,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2021
+WOW�,a.conic,Male,2021,0,Active,1,0,7,7,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2021
+X1,swing_entertainment,Male,2019,2020,Disband,6,0,11,11,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2019
+XENEX,company_gi_eok,Male,2020,0,Active,4,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020
+XENO-T,hunus_entertainment,Male,2013,0,Active,2,0,5,5,13,8,2,1,4,0,1,0,0,0,0,0,1,0,0,3,2018
+Xst,midas_entertainment,Male,2015,0,Active,2,2,6,5,6,2,0,0,0,1,2,3,0,0,0,0,1,0,0,0,2019
+Y&W,inakist_entertainment,Male,2020,0,Active,3,0,4,4,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2020
+YDPP,starship_entertainment,Male,2018,2019,Disband,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2018
+ZE:A,star_empire_entertainment,Male,2010,0,Active,6,0,9,9,9,0,3,2,2,0,4,1,0,1,2,0,4,0,0,1,2015
+ZEST,zenith_media_contents,Male,2014,2016,Disband,4,0,5,3,6,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2014
+ZPZG,j-star_entertainment,Male,2014,2016,Disband,2,0,1,1,4,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2015
