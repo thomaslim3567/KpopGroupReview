@@ -1,4 +1,4 @@
-group_name,company,group_type,debute_year,disband_year,social_accounts,inactive_members,current_members,original_members_remainding,initial_members,member_changes,subunits,albums,mini_albums,other_albums,singles,digital_singles,other_singles,foreign_albums,foreign_mini_albums,foreign_other_album,foreign_singles,foreign_digital_singles,others,last_production_year,total_releases,lifespan
+group_name,company,group_type,debut_year,disband_year,social_accounts,inactive_members,current_members,original_members_remainding,initial_members,member_changes,subunits,albums,mini_albums,other_albums,singles,digital_singles,other_singles,foreign_albums,foreign_mini_albums,foreign_other_album,foreign_singles,foreign_digital_singles,others,last_production_year,total_releases,lifespan
 10X10,gaon_entertainment,0,2015,2016,2,0,6,6,6,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2016,3,2
 1NB ,trivus_entertainment,0,2017,2018,4,0,5,5,5,0,0,0,0,0,0,6,0,0,0,0,0,0,0,2018,6,2
 1PS,maroo_entertainment,0,2014,2015,3,0,5,4,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2014,2,2
@@ -224,7 +224,7 @@ SWAN,forasia_entertainment,0,2007,2007,0,0,4,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,200
 Swi.T,yg_entertainment,0,2002,2004,0,0,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2002,1,3
 Switch Berry,dam_entertainment,0,2012,2018,2,0,4,0,4,15,0,0,0,0,0,4,0,0,0,0,0,0,0,2016,4,7
 T-ARA,mbk_entertainment,0,2009,2017,4,0,4,4,6,4,2,1,9,2,0,10,0,3,0,0,9,1,11,2017,46,9
-T.T.Ma,music_factory_entertainment,0,1999,2002,0,0,5,3,5,4,0,2,0,0,0,1,0,0,0,0,0,0,0,2007,3,4
+T.T.Ma,music_factory_entertainment,0,1999,2002,0,0,5,3,5,4,0,2,0,0,0,1,0,0,0,0,0,0,0,2000,3,4
 Tahiti,dreamstar_entertainment,0,2012,2018,6,0,4,3,6,7,0,0,2,0,0,5,0,0,0,0,0,0,2,2016,9,7
 The Ark,music_k_entertainment,0,2015,2016,5,0,5,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2015,1,2
 THE GLOSS,mgmc_korea_limited,0,2013,2014,5,0,3,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2013,1,2
