@@ -53,42 +53,12 @@ Working in one of the major music entertainment company in korea, our company ha
   
 </details> 
 
-## Executive summary
-
-** Work In Progress **
 
 ## Conclusions and Recommendations
 
-** Work in Progress **
+We are able to identify some of the more popular bands and is able to assign them with a longer lifepsan as compare to others.
+When sorted by longest lifespan or latest disband date we get interesting groups which reflect the trend of a certain generation of Kpop music group.
+We have shown that we are able to predict the lifespan of a music group to an extend. However the RMSE is considered high still thus more data collection will be required to lower the score. Preferbly having more detailed dates of their disbandments (in terms of months instead of years) would help to improve the results.
+We also highlighted that show that active music groups are starting to plateau. Thus it might be an indicator that its not a good time to introduce more group to the industry and also identified the features that helps extend the lifespan of music groups.
 
 
-## TO DO LIST 
-
-    1) Problem Statement
-        1.1) Determine Baseline
-
-    2) Data gathering 
-        2.1) Initial Collection done.
-        2.2) Could find more features after everything is done?
-
-    3) Cleaning
-        3.1) Varify input values (Years are within range)
-        3.2) Handle null values (for groups that are still active)
-        3.3) Standard cleaning (lower cases, remove spaces)
-        3.4) Seperate Actives and Disband groups
-        3.5) Train/Test on Disband portion, Select a subset from Active group to predict on.
-
-    4) EDA
-        4.1) Distribution of Activities
-        4.2) Distribution of Local/Foreign Activities
-        4.3) Average Activities across their lifespans (could be a feature)
-        4.4) Any difference between Male groups and Female groups? (yes,no? will the ols shows the same?)
-        4.5) Years to disband since last activities (cannot be a feature but interesting to know)
-        4.6) Something on the Companies? (the big three? do they perform better than other companies? use median lifespan as a performace indicator )
-
-    5) Modeling
-      5.1) Choosing regression methods
-
-    6) Evaluation
-
-    8) Summary and Review
